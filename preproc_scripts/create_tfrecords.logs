@@ -1,11 +1,5 @@
-../data/nd-iris/LG4000/2008-03-11_13/02463/02463d1926.tiff:
-	'NoneType' object is not subscriptable
-../data/nd-iris/LG4000/2009-02-03_05/02463/02463d2380.tiff:
-	'NoneType' object is not subscriptable
-../data/nd-iris/LG4000/2010-04-27_29/02463/02463d2874.tiff:
-	'NoneType' object is not subscriptable
-../data/nd-iris/LG4000/2010-04-27_29/02463/02463d2876.tiff:
-	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-23_25/02463/02463d2050.tiff:
+	Inconsistant image size: (250, 236)
 ../data/nd-iris/LG4000/2008-03-11_13/02463/02463d1926.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-03_05/02463/02463d2380.tiff:
@@ -16,6 +10,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/04233/04233d1846.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-17_19/04233/04233d2181.tiff:
+	Inconsistant image size: (244, 250)
 ../data/nd-iris/LG2200/2010-04-13_15/04233/04233d2587.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/04233/04233d2622.tiff:
@@ -40,6 +36,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-29_01/04261/04261d1048.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-11-11_13/04261/04261d1200.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-11-11_13/04261/04261d1201.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/04261/04261d1647.tiff:
@@ -162,6 +160,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/04418/04418d861.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-17_19/04418/04418d906.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-02-17_19/04418/04418d907.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/04418/04418d908.tiff:
@@ -176,6 +176,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/04418/04418d915.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/04418/04418d875.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-03-03_05/04418/04418d877.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/04418/04418d879.tiff:
@@ -214,12 +216,20 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/04418/04418d1052.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/04418/04418d1061.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-12-01_03/04418/04418d1066.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-12-01_03/04418/04418d1069.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-03-16_18/04418/04418d1096.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/04418/04418d1097.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/04418/04418d1100.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/04418/04418d1102.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2010-03-16_18/04418/04418d1104.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/04418/04418d1105.tiff:
@@ -232,12 +242,40 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-09-23_25/04418/04418d601.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-10-07_09/04418/04418d627.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-10-28_30/04418/04418d657.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-10-28_30/04418/04418d661.tiff:
+	Inconsistant image size: (0, 0)
+../data/nd-iris/LG4000/2008-12-02_04/04418/04418d775.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-12-02_04/04418/04418d777.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-01-20_22/04418/04418d833.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-01-20_22/04418/04418d835.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-01-20_22/04418/04418d837.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-02-03_05/04418/04418d865.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-03-03_05/04418/04418d868.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-03-03_05/04418/04418d870.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-03-03_05/04418/04418d872.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/04418/04418d1025.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-12-01_03/04418/04418d1073.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-12-01_03/04418/04418d1075.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2010-03-16_18/04418/04418d1079.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2010-03-16_18/04418/04418d1081.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG4000/2010-04-13_15/04418/04418d1113.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-11_13/04470/04470d1554.tiff:
@@ -516,6 +554,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-04-21_23/04470/04470d2145.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/04470/04470d2455.tiff:
+	Inconsistant image size: (250, 242)
 ../data/nd-iris/LG4000/2010-04-27_29/04470/04470d2487.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-09-23_25/04511/04511d694.tiff:
@@ -532,6 +572,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-03_05/04621/04621d220.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-17_19/04621/04621d479.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-02-23_25/04621/04621d545.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/04621/04621d607.tiff:
@@ -632,18 +674,28 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/04870/04870d1460.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-03_05/04870/04870d1667.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-11-03_05/04870/04870d1668.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1698.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1699.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1700.tiff:
+	Inconsistant image size: (182, 250)
 ../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1701.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1702.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1703.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1704.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1705.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1706.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1707.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/04870/04870d1708.tiff:
@@ -728,6 +780,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-11-11_13/05028/05028d854.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-03-11_13/05033/05033d692.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-03-25_27/05033/05033d672.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-25_27/05033/05033d676.tiff:
@@ -798,6 +852,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05044/05044d1204.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05044/05044d1175.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-03-03_05/05044/05044d1179.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-03-24_26/05044/05044d1142.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05044/05044d1143.tiff:
@@ -812,6 +870,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-08_10/05044/05044d759.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-10-07_09/05044/05044d881.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2008-10-07_09/05044/05044d883.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-10-28_30/05044/05044d922.tiff:
@@ -866,14 +926,26 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-01_02/05176/05176d336.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-04-29_01/05176/05176d377.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG4000/2008-04-29_01/05176/05176d379.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-04-29_01/05176/05176d381.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG4000/2008-09-09_11/05176/05176d402.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-23_25/05176/05176d434.tiff:
+	Inconsistant image size: (136, 0)
 ../data/nd-iris/LG4000/2008-09-23_25/05176/05176d436.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-01-20_22/05176/05176d740.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-01-20_22/05176/05176d742.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-02-17_19/05176/05176d805.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-02-17_19/05176/05176d809.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-03-03_05/05176/05176d775.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-03_05/05176/05176d779.tiff:
@@ -926,6 +998,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-22_24/05232/05232d449.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-03-25_27/05233/05233d348.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2008-03-25_27/05233/05233d349.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-03-25_27/05233/05233d351.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-11_13/05244/05244d394.tiff:
@@ -1276,6 +1352,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05271/05271d1000.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-10-07_09/05271/05271d411.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-03-03_05/05271/05271d687.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-03_05/05271/05271d945.tiff:
@@ -1296,10 +1374,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-12-01_03/05271/05271d1012.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-23_25/05284/05284d334.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2008-04-08_10/05284/05284d214.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-08_10/05284/05284d216.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-12-02_04/05284/05284d582.tiff:
+	Inconsistant image size: (250, 236)
 ../data/nd-iris/LG4000/2009-01-20_22/05284/05284d648.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-03_05/05284/05284d706.tiff:
@@ -1430,6 +1512,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/05293/05293d894.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-23_25/05293/05293d954.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-04-13_15/05293/05293d1014.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05293/05293d1043.tiff:
@@ -1438,8 +1522,28 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05293/05293d1050.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-04-08_10/05293/05293d113.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-04-08_10/05293/05293d115.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-04-22_24/05293/05293d131.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-04-29_01/05293/05293d148.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-04-29_01/05293/05293d150.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2008-04-29_01/05293/05293d152.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-09_11/05293/05293d175.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-09-23_25/05293/05293d204.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-10-07_09/05293/05293d235.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-03-24_26/05293/05293d521.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-03-24_26/05293/05293d523.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-11-03_05/05293/05293d800.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05294/05294d46.tiff:
@@ -1890,6 +1994,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-11-11_13/05314/05314d339.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-11-11_13/05314/05314d343.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-04-21_23/05314/05314d712.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-04-21_23/05314/05314d714.tiff:
@@ -2012,6 +2118,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/05321/05321d851.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-10-28_30/05321/05321d303.tiff:
+	Inconsistant image size: (232, 250)
 ../data/nd-iris/LG4000/2009-11-17_19/05321/05321d802.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-17_19/05321/05321d806.tiff:
@@ -2124,6 +2232,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/05338/05338d365.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/05338/05338d393.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2010-04-13_15/05338/05338d483.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/05338/05338d485.tiff:
@@ -2258,6 +2368,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05368/05368d626.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-03-11_13/05368/05368d248.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2008-04-01_02/05368/05368d213.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-01_02/05368/05368d215.tiff:
@@ -2404,6 +2516,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/05375/05375d432.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-23_25/05375/05375d433.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2010-03-16_18/05375/05375d461.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05375/05375d482.tiff:
@@ -2496,10 +2610,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/05380/05380d308.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-09_11/05380/05380d31.tiff:
+	Inconsistant image size: (248, 250)
 ../data/nd-iris/LG4000/2009-01-20_22/05380/05380d158.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-03_05/05380/05380d167.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/05380/05380d250.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-04-08_10/05381/05381d65.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-22_24/05381/05381d81.tiff:
@@ -2528,6 +2646,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05390/05390d55.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-24_26/05390/05390d63.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-03-24_26/05390/05390d64.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-04-21_23/05390/05390d91.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05393/05393d289.tiff:
@@ -2552,12 +2674,28 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/05393/05393d535.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-23_25/05393/05393d539.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2010-02-23_25/05393/05393d542.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05393/05393d569.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-23_25/05393/05393d272.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-09-23_25/05393/05393d274.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-09-23_25/05393/05393d276.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-10-07_09/05393/05393d58.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2008-10-28_30/05393/05393d88.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-12-02_04/05393/05393d300.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-12-02_04/05393/05393d302.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-02-03_05/05393/05393d414.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-04-21_23/05393/05393d444.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-27_29/05393/05393d547.tiff:
@@ -2568,6 +2706,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-11_13/05399/05399d109.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-09_11/05399/05399d171.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2008-09-09_11/05399/05399d175.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-09-09_11/05399/05399d181.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05399/05399d225.tiff:
@@ -2592,6 +2734,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-12-02_04/05403/05403d29.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-01-26_28/05403/05403d168.tiff:
+	Inconsistant image size: (250, 240)
 ../data/nd-iris/LG2200/2008-10-07_09/05404/05404d98.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-11_13/05405/05405d135.tiff:
@@ -2958,6 +3102,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05415/05415d300.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-28_30/05415/05415d331.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-12-02_04/05415/05415d501.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05415/05415d535.tiff:
@@ -2980,14 +3126,24 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-03-11_13/05415/05415d154.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-04-08_10/05415/05415d159.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2008-09-23_25/05415/05415d248.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG4000/2008-09-23_25/05415/05415d250.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-09-23_25/05415/05415d252.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-11-11_13/05415/05415d366.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-03-24_26/05415/05415d557.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-02-09_11/05415/05415d820.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-09_11/05415/05415d822.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/05415/05415d824.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-03-25_27/05419/05419d79.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-25_27/05419/05419d82.tiff:
@@ -3020,20 +3176,48 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-01_02/05432/05432d91.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05432/05432d214.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2008-10-07_09/05432/05432d216.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2008-10-07_09/05432/05432d219.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-10-28_30/05432/05432d260.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05432/05432d290.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05432/05432d415.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05432/05432d545.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05432/05432d546.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05432/05432d547.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05432/05432d548.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05432/05432d549.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05432/05432d550.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05432/05432d551.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05432/05432d558.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-03_05/05432/05432d560.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05432/05432d561.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05432/05432d562.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-03_05/05432/05432d563.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05432/05432d475.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/05432/05432d759.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/05432/05432d871.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2008-03-25_27/05432/05432d128.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-29_01/05432/05432d170.tiff:
@@ -3076,6 +3260,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-01-20_22/05439/05439d128.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-01-20_22/05439/05439d130.tiff:
+	Inconsistant image size: (156, 250)
+../data/nd-iris/LG4000/2009-01-20_22/05439/05439d132.tiff:
+	Inconsistant image size: (154, 0)
 ../data/nd-iris/LG4000/2010-01-26_28/05439/05439d190.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-09_11/05439/05439d224.tiff:
@@ -3114,6 +3302,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-10-07_09/05442/05442d224.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-01-20_22/05442/05442d387.tiff:
+	Inconsistant image size: (186, 250)
 ../data/nd-iris/LG2200/2008-04-29_01/05444/05444d121.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-11_13/05445/05445d56.tiff:
@@ -3186,6 +3376,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-22_24/05455/05455d87.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-22_24/05455/05455d89.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-09-09_11/05455/05455d120.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05455/05455d124.tiff:
@@ -3310,8 +3502,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-11-11_13/05455/05455d259.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-04-21_23/05455/05455d613.tiff:
+	Inconsistant image size: (250, 242)
 ../data/nd-iris/LG4000/2010-02-09_11/05455/05455d868.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/05455/05455d870.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-11-11_13/05456/05456d238.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/05456/05456d959.tiff:
@@ -3320,6 +3516,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05459/05459d56.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05459/05459d114.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2008-10-07_09/05459/05459d116.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-10-07_09/05459/05459d117.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05459/05459d118.tiff:
@@ -3490,14 +3690,30 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-08_10/05465/05465d139.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-08_10/05465/05465d140.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2008-04-29_01/05465/05465d176.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-09-23_25/05465/05465d212.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05465/05465d219.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05465/05465d304.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-24_26/05465/05465d537.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-03-24_26/05465/05465d538.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-03-24_26/05465/05465d544.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-04-21_23/05465/05465d664.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-04-21_23/05465/05465d671.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2008-04-01_02/05465/05465d84.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-04-22_24/05465/05465d146.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2008-04-29_01/05465/05465d166.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-10-07_09/05465/05465d224.tiff:
@@ -3550,14 +3766,24 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05470/05470d136.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05470/05470d137.tiff:
+	Inconsistant image size: (248, 250)
 ../data/nd-iris/LG2200/2008-10-07_09/05470/05470d139.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05470/05470d142.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-11-11_13/05470/05470d166.tiff:
+	Inconsistant image size: (238, 250)
+../data/nd-iris/LG2200/2008-11-11_13/05470/05470d167.tiff:
+	Inconsistant image size: (242, 250)
+../data/nd-iris/LG2200/2008-11-11_13/05470/05470d169.tiff:
+	Inconsistant image size: (228, 250)
 ../data/nd-iris/LG2200/2008-11-11_13/05470/05470d170.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05470/05470d172.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-11-11_13/05470/05470d173.tiff:
+	Inconsistant image size: (246, 250)
 ../data/nd-iris/LG4000/2008-03-25_27/05470/05470d56.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-29_01/05470/05470d77.tiff:
@@ -3590,6 +3816,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05477/05477d428.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-01_02/05478/05478d42.tiff:
+	Inconsistant image size: (246, 250)
 ../data/nd-iris/LG2200/2008-09-09_11/05478/05478d103.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05478/05478d109.tiff:
@@ -3638,14 +3866,20 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05482/05482d122.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-28_30/05482/05482d144.tiff:
+	Inconsistant image size: (248, 250)
 ../data/nd-iris/LG2200/2008-10-28_30/05482/05482d146.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-28_30/05482/05482d147.tiff:
+	Inconsistant image size: (208, 250)
 ../data/nd-iris/LG2200/2008-10-28_30/05482/05482d152.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05482/05482d354.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05482/05482d356.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05482/05482d360.tiff:
+	Inconsistant image size: (230, 250)
 ../data/nd-iris/LG2200/2009-01-20_22/05482/05482d362.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05482/05482d463.tiff:
@@ -3656,6 +3890,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05482/05482d466.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05482/05482d469.tiff:
+	Inconsistant image size: (234, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05482/05482d473.tiff:
+	Inconsistant image size: (248, 250)
 ../data/nd-iris/LG2200/2009-02-03_05/05482/05482d475.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05482/05482d476.tiff:
@@ -3668,16 +3906,28 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05482/05482d486.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-24_26/05482/05482d402.tiff:
+	Inconsistant image size: (176, 250)
 ../data/nd-iris/LG2200/2009-03-24_26/05482/05482d406.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05482/05482d369.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05482/05482d370.tiff:
+	Inconsistant image size: (234, 250)
 ../data/nd-iris/LG2200/2009-04-21_23/05482/05482d376.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-11-11_13/05482/05482d154.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-11-11_13/05482/05482d156.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-02-03_05/05482/05482d488.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-03-24_26/05482/05482d391.tiff:
+	Inconsistant image size: (198, 250)
+../data/nd-iris/LG4000/2009-03-24_26/05482/05482d395.tiff:
+	Inconsistant image size: (186, 250)
+../data/nd-iris/LG4000/2009-04-21_23/05482/05482d500.tiff:
+	Inconsistant image size: (170, 250)
 ../data/nd-iris/LG2200/2008-04-01_02/05484/05484d57.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-01_02/05484/05484d59.tiff:
@@ -3732,8 +3982,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-10-07_09/05486/05486d127.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-17_19/05486/05486d405.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-02-09_11/05486/05486d409.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-03-16_18/05486/05486d441.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-04-08_10/05487/05487d67.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-08_10/05487/05487d69.tiff:
@@ -3754,6 +4008,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/05487/05487d218.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-17_19/05487/05487d219.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-11-17_19/05487/05487d220.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/05487/05487d221.tiff:
@@ -3794,6 +4050,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05489/05489d480.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-17_19/05489/05489d326.tiff:
+	Inconsistant image size: (162, 250)
+../data/nd-iris/LG4000/2010-01-26_28/05489/05489d334.tiff:
+	Inconsistant image size: (128, 250)
 ../data/nd-iris/LG2200/2008-03-25_27/05490/05490d42.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-25_27/05490/05490d43.tiff:
@@ -3956,6 +4216,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-25_27/05497/05497d17.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-03-25_27/05497/05497d18.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-03-03_05/05497/05497d76.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05497/05497d78.tiff:
@@ -4058,6 +4320,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05501/05501d777.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-11-11_13/05501/05501d195.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2008-11-11_13/05501/05501d197.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/05501/05501d726.tiff:
@@ -4086,8 +4350,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05502/05502d295.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05502/05502d468.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05502/05502d469.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-01-20_22/05502/05502d470.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05502/05502d471.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-01-20_22/05502/05502d477.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05502/05502d602.tiff:
@@ -4188,6 +4458,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-01_02/05510/05510d17.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-01_02/05510/05510d20.tiff:
+	Inconsistant image size: (250, 240)
 ../data/nd-iris/LG2200/2008-10-07_09/05510/05510d101.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05510/05510d186.tiff:
@@ -4286,6 +4558,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05513/05513d213.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-12-02_04/05513/05513d266.tiff:
+	Inconsistant image size: (250, 194)
 ../data/nd-iris/LG2200/2008-12-02_04/05513/05513d270.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05513/05513d272.tiff:
@@ -4480,8 +4754,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05523/05523d242.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-04-08_10/05523/05523d15.tiff:
+	Inconsistant image size: (134, 250)
 ../data/nd-iris/LG4000/2008-09-09_11/05523/05523d35.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-03-03_05/05523/05523d225.tiff:
+	Inconsistant image size: (134, 250)
 ../data/nd-iris/LG2200/2009-02-03_05/05524/05524d329.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05524/05524d331.tiff:
@@ -4490,6 +4768,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-03_05/05524/05524d341.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05525/05525d95.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-04-08_10/05526/05526d28.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05526/05526d82.tiff:
@@ -4540,6 +4820,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-08_10/05528/05528d32.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-29_01/05530/05530d89.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-11-11_13/05530/05530d205.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05530/05530d395.tiff:
@@ -4662,6 +4944,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-29_01/05531/05531d73.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-10-07_09/05531/05531d151.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2008-10-07_09/05531/05531d153.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-11-11_13/05531/05531d232.tiff:
@@ -4706,6 +4990,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-29_01/05539/05539d92.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-04-22_24/05539/05539d63.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG4000/2008-04-29_01/05539/05539d77.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05540/05540d513.tiff:
@@ -4796,6 +5082,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-22_24/05555/05555d39.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-29_01/05555/05555d54.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-04-29_01/05555/05555d55.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05555/05555d81.tiff:
@@ -4882,12 +5170,16 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-29_01/05557/05557d48.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-10-07_09/05557/05557d127.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-04-22_24/05558/05558d26.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05558/05558d62.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05558/05558d270.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-17_19/05558/05558d275.tiff:
+	Inconsistant image size: (238, 250)
 ../data/nd-iris/LG2200/2009-02-17_19/05558/05558d276.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05558/05558d244.tiff:
@@ -4906,6 +5198,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-09-23_25/05558/05558d39.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-10-28_30/05558/05558d65.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-04-22_24/05559/05559d41.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-29_01/05559/05559d58.tiff:
@@ -4954,6 +5248,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-27_29/05559/05559d785.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-22_24/05560/05560d38.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-04-22_24/05561/05561d43.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-22_24/05561/05561d44.tiff:
@@ -4968,6 +5264,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05570/05570d63.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05574/05574d55.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-01-20_22/05574/05574d64.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-29_01/05576/05576d26.tiff:
@@ -4988,6 +5286,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-29_01/05583/05583d25.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-29_01/05583/05583d26.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-04-29_01/05583/05583d28.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-29_01/05583/05583d30.tiff:
@@ -5136,6 +5436,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05596/05596d300.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05596/05596d304.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-02-03_05/05596/05596d405.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05596/05596d334.tiff:
@@ -5152,12 +5454,20 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-09-23_25/05596/05596d26.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-23_25/05596/05596d28.tiff:
+	Inconsistant image size: (242, 250)
 ../data/nd-iris/LG4000/2008-10-07_09/05596/05596d56.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-01-20_22/05596/05596d322.tiff:
+	Inconsistant image size: (0, 0)
+../data/nd-iris/LG4000/2009-01-20_22/05596/05596d324.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-01-20_22/05596/05596d326.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-03_05/05596/05596d412.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-02-17_19/05596/05596d357.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-03-03_05/05596/05596d327.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05598/05598d43.tiff:
@@ -5198,6 +5508,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05600/05600d121.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-12-02_04/05600/05600d155.tiff:
+	Inconsistant image size: (250, 244)
 ../data/nd-iris/LG4000/2008-10-07_09/05600/05600d33.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05601/05601d47.tiff:
@@ -5236,8 +5548,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05601/05601d839.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/05601/05601d847.tiff:
+	Inconsistant image size: (180, 250)
 ../data/nd-iris/LG2200/2010-04-13_15/05601/05601d849.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/05601/05601d850.tiff:
+	Inconsistant image size: (200, 250)
 ../data/nd-iris/LG2200/2010-04-27_29/05601/05601d881.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-09-23_25/05601/05601d28.tiff:
@@ -5252,6 +5568,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-04-21_23/05601/05601d526.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-04-21_23/05601/05601d528.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG2200/2008-09-09_11/05603/05603d19.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05603/05603d20.tiff:
@@ -5336,6 +5654,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-10-07_09/05608/05608d66.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-09_11/05609/05609d24.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-09-23_25/05609/05609d49.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05609/05609d51.tiff:
@@ -5346,6 +5666,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05609/05609d58.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05609/05609d348.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2008-09-09_11/05609/05609d5.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05610/05610d80.tiff:
@@ -5362,6 +5684,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05610/05610d115.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-09_11/05610/05610d3.tiff:
+	Inconsistant image size: (182, 0)
+../data/nd-iris/LG4000/2008-09-23_25/05610/05610d62.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-09-23_25/05610/05610d64.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-09-23_25/05610/05610d66.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG2200/2009-02-17_19/05611/05611d202.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05611/05611d208.tiff:
@@ -5410,6 +5740,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05616/05616d290.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-09_11/05616/05616d17.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-09-09_11/05616/05616d21.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05616/05616d47.tiff:
@@ -5432,6 +5764,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05616/05616d148.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-12-02_04/05616/05616d311.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2008-12-02_04/05616/05616d319.tiff:
+	Inconsistant image size: (244, 250)
 ../data/nd-iris/LG2200/2009-01-20_22/05616/05616d345.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05616/05616d348.tiff:
@@ -5646,6 +5982,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/05622/05622d643.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/05622/05622d701.tiff:
+	Inconsistant image size: (236, 250)
 ../data/nd-iris/LG2200/2010-03-16_18/05622/05622d704.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05623/05623d30.tiff:
@@ -5806,6 +6144,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05624/05624d365.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05624/05624d481.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-04-21_23/05624/05624d482.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05624/05624d483.tiff:
@@ -5968,14 +6308,22 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/05629/05629d645.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-10-07_09/05629/05629d62.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2008-12-02_04/05629/05629d165.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-12-02_04/05629/05629d167.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-17_19/05629/05629d396.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/05629/05629d581.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-11-03_05/05629/05629d589.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-17_19/05629/05629d625.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2010-03-16_18/05629/05629d631.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-09-09_11/05630/05630d19.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05630/05630d22.tiff:
@@ -6262,10 +6610,18 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05641/05641d170.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-23_25/05641/05641d32.tiff:
+	Inconsistant image size: (152, 250)
+../data/nd-iris/LG4000/2008-09-23_25/05641/05641d36.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2008-10-07_09/05641/05641d62.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-10-07_09/05641/05641d66.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-12-02_04/05641/05641d142.tiff:
+	Inconsistant image size: (146, 250)
+../data/nd-iris/LG4000/2008-12-02_04/05641/05641d146.tiff:
+	Inconsistant image size: (128, 250)
 ../data/nd-iris/LG2200/2009-02-17_19/05642/05642d188.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/05642/05642d417.tiff:
@@ -6460,6 +6816,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05650/05650d346.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-01-20_22/05650/05650d290.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-09-23_25/05651/05651d35.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05651/05651d36.tiff:
@@ -6526,6 +6884,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05652/05652d88.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-23_25/05653/05653d27.tiff:
+	Inconsistant image size: (244, 250)
 ../data/nd-iris/LG2200/2008-10-07_09/05653/05653d50.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05653/05653d107.tiff:
@@ -6540,6 +6900,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05653/05653d433.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-17_19/05653/05653d390.tiff:
+	Inconsistant image size: (250, 240)
 ../data/nd-iris/LG2200/2009-03-03_05/05653/05653d357.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05653/05653d456.tiff:
@@ -6558,6 +6920,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05654/05654d166.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05655/05655d51.tiff:
+	Inconsistant image size: (208, 250)
 ../data/nd-iris/LG2200/2009-03-03_05/05655/05655d304.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05655/05655d319.tiff:
@@ -6782,6 +7146,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05663/05663d287.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05663/05663d290.tiff:
+	Inconsistant image size: (240, 250)
 ../data/nd-iris/LG2200/2009-02-17_19/05663/05663d359.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-03_05/05663/05663d526.tiff:
@@ -6790,6 +7156,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05664/05664d137.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-03_05/05664/05664d618.tiff:
+	Inconsistant image size: (228, 250)
 ../data/nd-iris/LG2200/2009-11-03_05/05664/05664d627.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/05664/05664d655.tiff:
@@ -6800,6 +7168,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05665/05665d24.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-28_30/05666/05666d90.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-12-02_04/05666/05666d146.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05667/05667d58.tiff:
@@ -6834,12 +7204,16 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/05668/05668d685.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05669/05669d50.tiff:
+	Inconsistant image size: (148, 250)
 ../data/nd-iris/LG2200/2008-10-07_09/05669/05669d64.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05669/05669d70.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05669/05669d103.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-17_19/05669/05669d379.tiff:
+	Inconsistant image size: (148, 250)
 ../data/nd-iris/LG2200/2009-02-17_19/05669/05669d385.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05669/05669d387.tiff:
@@ -6854,6 +7228,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/05669/05669d618.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-01-26_28/05669/05669d620.tiff:
+	Inconsistant image size: (134, 250)
+../data/nd-iris/LG4000/2010-02-09_11/05669/05669d648.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-04-27_29/05669/05669d738.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/05670/05670d543.tiff:
@@ -6870,6 +7248,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-10-28_30/05671/05671d35.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-11-11_13/05671/05671d61.tiff:
+	Inconsistant image size: (130, 0)
 ../data/nd-iris/LG4000/2008-12-02_04/05671/05671d91.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-12-02_04/05671/05671d93.tiff:
@@ -6950,6 +7330,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05674/05674d49.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-11-11_13/05674/05674d72.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-11-11_13/05674/05674d73.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05674/05674d76.tiff:
@@ -7040,18 +7422,58 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-09-23_25/05674/05674d2.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-23_25/05674/05674d6.tiff:
+	Inconsistant image size: (0, 0)
+../data/nd-iris/LG4000/2008-10-28_30/05674/05674d23.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-10-28_30/05674/05674d25.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-10-28_30/05674/05674d27.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-11-11_13/05674/05674d53.tiff:
+	Inconsistant image size: (0, 0)
+../data/nd-iris/LG4000/2008-12-02_04/05674/05674d83.tiff:
+	Inconsistant image size: (0, 0)
+../data/nd-iris/LG4000/2008-12-02_04/05674/05674d87.tiff:
+	Inconsistant image size: (0, 0)
+../data/nd-iris/LG4000/2009-01-20_22/05674/05674d252.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-02-03_05/05674/05674d370.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-02-03_05/05674/05674d374.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-02-17_19/05674/05674d317.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-03-03_05/05674/05674d285.tiff:
+	Inconsistant image size: (132, 250)
 ../data/nd-iris/LG4000/2009-03-03_05/05674/05674d289.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-03-24_26/05674/05674d255.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-03-24_26/05674/05674d257.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-03-24_26/05674/05674d259.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-04-21_23/05674/05674d400.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-04-21_23/05674/05674d402.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-04-21_23/05674/05674d404.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2010-01-26_28/05674/05674d473.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/05674/05674d510.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2010-02-09_11/05674/05674d512.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG4000/2010-03-16_18/05674/05674d570.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-03-16_18/05674/05674d574.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/05674/05674d600.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-27_29/05674/05674d630.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2010-04-27_29/05674/05674d632.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-27_29/05674/05674d634.tiff:
@@ -7146,6 +7568,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05679/05679d273.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-27_29/05679/05679d368.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-04-27_29/05679/05679d370.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05679/05679d373.tiff:
@@ -7156,6 +7580,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-10-07_09/05679/05679d32.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-27_29/05679/05679d350.tiff:
+	Inconsistant image size: (148, 0)
+../data/nd-iris/LG4000/2010-04-27_29/05679/05679d352.tiff:
+	Inconsistant image size: (166, 0)
 ../data/nd-iris/LG2200/2008-10-28_30/05680/05680d79.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05680/05680d309.tiff:
@@ -7338,6 +7766,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05696/05696d722.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-27_29/05696/05696d755.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-03-24_26/05696/05696d316.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05697/05697d372.tiff:
@@ -7396,6 +7826,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05705/05705d41.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-11-11_13/05705/05705d104.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-11-11_13/05707/05707d45.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05707/05707d171.tiff:
@@ -7430,6 +7862,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05708/05708d183.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05708/05708d190.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-17_19/05708/05708d231.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05708/05708d149.tiff:
@@ -7644,8 +8078,16 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05714/05714d602.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-12-02_04/05714/05714d149.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-12-02_04/05714/05714d153.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2010-02-09_11/05714/05714d461.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/05714/05714d551.tiff:
+	Inconsistant image size: (134, 250)
+../data/nd-iris/LG4000/2010-04-27_29/05714/05714d581.tiff:
+	Inconsistant image size: (158, 250)
 ../data/nd-iris/LG2200/2008-10-28_30/05715/05715d24.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05715/05715d28.tiff:
@@ -7828,6 +8270,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-17_19/05724/05724d160.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-04-21_23/05724/05724d241.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-11-17_19/05724/05724d372.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-04-21_23/05728/05728d193.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-03_05/05728/05728d167.tiff:
@@ -7940,6 +8386,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05746/05746d30.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-11-11_13/05746/05746d4.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG2200/2009-01-20_22/05749/05749d170.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05749/05749d173.tiff:
@@ -8020,6 +8468,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05757/05757d178.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-02-03_05/05757/05757d253.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2010-04-13_15/05760/05760d488.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05760/05760d491.tiff:
@@ -8038,6 +8488,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05761/05761d24.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05761/05761d233.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-03-03_05/05761/05761d169.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05761/05761d173.tiff:
@@ -8108,6 +8560,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05763/05763d291.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-01-20_22/05763/05763d140.tiff:
+	Inconsistant image size: (244, 250)
 ../data/nd-iris/LG4000/2009-03-03_05/05763/05763d203.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05764/05764d21.tiff:
@@ -8156,6 +8610,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-03_05/05764/05764d196.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/05764/05764d605.tiff:
+	Inconsistant image size: (146, 250)
+../data/nd-iris/LG4000/2010-04-13_15/05764/05764d607.tiff:
+	Inconsistant image size: (160, 250)
 ../data/nd-iris/LG2200/2009-11-03_05/05765/05765d77.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-03_05/05765/05765d79.tiff:
@@ -8296,6 +8754,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05769/05769d76.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-12-02_04/05769/05769d4.tiff:
+	Inconsistant image size: (250, 210)
 ../data/nd-iris/LG2200/2009-02-17_19/05770/05770d138.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05770/05770d144.tiff:
@@ -8368,6 +8828,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05774/05774d138.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05774/05774d139.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-02-03_05/05774/05774d284.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05774/05774d236.tiff:
@@ -8698,6 +9160,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-12-02_04/05787/05787d67.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-12-02_04/05787/05787d3.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2008-12-02_04/05787/05787d5.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-03-03_05/05787/05787d76.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-03_05/05787/05787d78.tiff:
@@ -8748,6 +9214,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05793/05793d136.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-17_19/05794/05794d148.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG4000/2009-11-17_19/05794/05794d150.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-12-01_03/05794/05794d181.tiff:
@@ -8758,6 +9226,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/05794/05794d251.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-27_29/05794/05794d283.tiff:
+	Inconsistant image size: (128, 250)
+../data/nd-iris/LG4000/2010-04-27_29/05794/05794d287.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG2200/2009-01-20_22/05795/05795d69.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05795/05795d156.tiff:
@@ -9316,8 +9788,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05815/05815d433.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05816/05816d118.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-02-03_05/05816/05816d120.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05816/05816d77.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-03-03_05/05816/05816d80.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05816/05816d82.tiff:
@@ -9344,6 +9820,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05818/05818d225.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-17_19/05818/05818d159.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-02-17_19/05818/05818d167.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05818/05818d128.tiff:
@@ -9358,6 +9836,16 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-04-21_23/05818/05818d276.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-01-20_22/05819/05819d76.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-02-17_19/05819/05819d139.tiff:
+	Inconsistant image size: (128, 0)
+../data/nd-iris/LG4000/2009-02-17_19/05819/05819d141.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-03-24_26/05819/05819d81.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-03-24_26/05819/05819d83.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-01-20_22/05821/05821d64.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05821/05821d70.tiff:
@@ -9512,6 +10000,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05828/05828d207.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05828/05828d131.tiff:
+	Inconsistant image size: (250, 246)
 ../data/nd-iris/LG2200/2009-01-20_22/05829/05829d49.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05829/05829d52.tiff:
@@ -9536,6 +10026,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05831/05831d221.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05831/05831d125.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-03-03_05/05831/05831d140.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05831/05831d100.tiff:
@@ -9558,14 +10050,24 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05831/05831d598.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-01-20_22/05831/05831d88.tiff:
+	Inconsistant image size: (202, 0)
 ../data/nd-iris/LG4000/2009-03-03_05/05831/05831d123.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-04-21_23/05831/05831d266.tiff:
+	Inconsistant image size: (170, 250)
+../data/nd-iris/LG4000/2009-04-21_23/05831/05831d270.tiff:
+	Inconsistant image size: (162, 250)
 ../data/nd-iris/LG4000/2009-11-03_05/05831/05831d384.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-03_05/05831/05831d392.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-12-01_03/05831/05831d453.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-12-01_03/05831/05831d455.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-12-01_03/05831/05831d457.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-01-26_28/05831/05831d459.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/05831/05831d461.tiff:
@@ -9584,6 +10086,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/05831/05831d572.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/05831/05831d574.tiff:
+	Inconsistant image size: (174, 250)
+../data/nd-iris/LG4000/2010-04-27_29/05831/05831d601.tiff:
+	Inconsistant image size: (152, 250)
 ../data/nd-iris/LG2200/2009-02-17_19/05832/05832d112.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/05832/05832d300.tiff:
@@ -9610,6 +10116,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05832/05832d391.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/05832/05832d394.tiff:
+	Inconsistant image size: (250, 242)
 ../data/nd-iris/LG2200/2010-04-13_15/05832/05832d395.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05832/05832d398.tiff:
@@ -9650,6 +10158,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05837/05837d42.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05837/05837d45.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-03-03_05/05837/05837d61.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05837/05837d64.tiff:
@@ -9678,6 +10188,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-03_05/05837/05837d49.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-02-03_05/05837/05837d53.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-03-03_05/05837/05837d56.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-03_05/05838/05838d43.tiff:
@@ -9766,6 +10278,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05841/05841d53.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-03-03_05/05841/05841d79.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG2200/2009-02-03_05/05842/05842d95.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05842/05842d485.tiff:
@@ -9784,6 +10298,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-27_29/05842/05842d462.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05844/05844d104.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-02-03_05/05844/05844d106.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05844/05844d107.tiff:
@@ -9802,6 +10318,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05844/05844d117.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05844/05844d130.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-03-03_05/05844/05844d131.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-03-03_05/05844/05844d132.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-03-24_26/05844/05844d71.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05844/05844d237.tiff:
@@ -9898,8 +10420,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05848/05848d94.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05848/05848d151.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-04-21_23/05848/05848d151.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-03-24_26/05848/05848d43.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05850/05850d83.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-11-17_19/05850/05850d236.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-17_19/05852/05852d55.tiff:
@@ -10024,12 +10552,20 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/05857/05857d415.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05858/05858d148.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2009-03-03_05/05858/05858d95.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2010-04-13_15/05858/05858d339.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05858/05858d347.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/05858/05858d229.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-02-23_25/05858/05858d259.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/05859/05859d219.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-03_05/05861/05861d167.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05861/05861d169.tiff:
@@ -10108,6 +10644,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-17_19/05865/05865d121.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-03-03_05/05865/05865d81.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-02-03_05/05868/05868d174.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-12-01_03/05868/05868d340.tiff:
@@ -10124,6 +10662,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-17_19/05870/05870d181.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-17_19/05870/05870d185.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-11-17_19/05870/05870d189.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-03-24_26/05871/05871d44.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05871/05871d47.tiff:
@@ -10140,6 +10682,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05871/05871d299.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-03-16_18/05871/05871d350.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-03_05/05872/05872d163.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05872/05872d90.tiff:
@@ -10204,10 +10748,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05881/05881d350.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-02-03_05/05881/05881d46.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-11-17_19/05881/05881d187.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-17_19/05881/05881d191.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-12-01_03/05881/05881d219.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2010-03-16_18/05881/05881d254.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/05881/05881d282.tiff:
@@ -10510,6 +11058,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-17_19/05903/05903d63.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-02-17_19/05903/05903d65.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG4000/2009-04-21_23/05903/05903d116.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-04-21_23/05903/05903d118.tiff:
@@ -10888,8 +11438,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-12-01_03/05919/05919d432.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/05919/05919d556.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG4000/2010-04-13_15/05919/05919d558.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/05919/05919d560.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG2200/2009-02-17_19/05920/05920d155.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05920/05920d158.tiff:
@@ -10974,6 +11528,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05938/05938d47.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-03-24_26/05938/05938d30.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-03-24_26/05942/05942d38.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05942/05942d39.tiff:
@@ -10986,6 +11542,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05943/05943d23.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05944/05944d59.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-03-03_05/05944/05944d60.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05944/05944d61.tiff:
@@ -11046,6 +11604,12 @@
 	[Errno 2] No such file or directory: '../data/nd-iris/LG2200/2009-11-03_05/05948/05948d91.tiff'
 ../data/nd-iris/LG2200/2009-11-03_05/05948/05948d92.tiff:
 	[Errno 2] No such file or directory: '../data/nd-iris/LG2200/2009-11-03_05/05948/05948d92.tiff'
+../data/nd-iris/LG4000/2009-03-03_05/05948/05948d9.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-03-03_05/05948/05948d11.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-03-03_05/05948/05948d13.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-11-03_05/05948/05948d88.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05949/05949d30.tiff:
@@ -11124,6 +11688,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/05956/05956d167.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-27_29/05956/05956d337.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-11-17_19/05956/05956d236.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-12-01_03/05956/05956d231.tiff:
@@ -11308,6 +11874,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-03_05/05963/05963d197.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-12-01_03/05963/05963d263.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-01-26_28/05963/05963d265.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/05963/05963d269.tiff:
@@ -11350,6 +11918,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/05970/05970d161.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-23_25/05970/05970d204.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2010-02-23_25/05970/05970d205.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/05970/05970d208.tiff:
@@ -11364,6 +11934,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/05970/05970d237.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/05970/05970d244.tiff:
+	Inconsistant image size: (232, 250)
 ../data/nd-iris/LG2200/2010-03-16_18/05970/05970d245.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/05970/05970d246.tiff:
@@ -11456,6 +12028,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/06000/06000d252.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-27_29/06000/06000d302.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG2200/2009-11-17_19/06001/06001d69.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/06001/06001d71.tiff:
@@ -11638,10 +12212,24 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06004/06004d247.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/06004/06004d58.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-11-03_05/06004/06004d62.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/06004/06004d66.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG4000/2009-11-17_19/06004/06004d98.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-17_19/06004/06004d102.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-12-01_03/06004/06004d142.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-12-01_03/06004/06004d144.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-12-01_03/06004/06004d146.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2010-01-26_28/06004/06004d152.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-09_11/06005/06005d185.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06005/06005d243.tiff:
@@ -11828,8 +12416,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06016/06016d223.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/06016/06016d60.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-11-03_05/06016/06016d64.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-12-01_03/06016/06016d96.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-11-03_05/06017/06017d33.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-03_05/06017/06017d35.tiff:
@@ -11958,6 +12550,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/06029/06029d230.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-23_25/06029/06029d234.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-03-16_18/06029/06029d257.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06029/06029d285.tiff:
@@ -12024,6 +12618,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06033/06033d168.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-03_05/06034/06034d34.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-11-03_05/06035/06035d34.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-03_05/06035/06035d35.tiff:
@@ -12218,6 +12814,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/06048/06048d82.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/06048/06048d88.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2010-01-26_28/06048/06048d116.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06048/06048d116.tiff:
@@ -12268,6 +12866,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06049/06049d106.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-01-26_28/06049/06049d113.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-11-17_19/06049/06049d54.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-12-01_03/06049/06049d82.tiff:
@@ -12356,6 +12956,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/06051/06051d89.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-23_25/06051/06051d149.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2010-04-27_29/06051/06051d239.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2010-04-27_29/06051/06051d241.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-27_29/06051/06051d243.tiff:
@@ -12364,6 +12968,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/06052/06052d135.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-09_11/06052/06052d136.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2010-02-09_11/06052/06052d136.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-23_25/06052/06052d166.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/06057/06057d70.tiff:
@@ -12514,6 +13122,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/06065/06065d150.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-27_29/06065/06065d210.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-11-17_19/06066/06066d31.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/06066/06066d79.tiff:
@@ -12628,6 +13238,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/06080/06080d65.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-12-01_03/06080/06080d73.tiff:
+	Inconsistant image size: (150, 250)
+../data/nd-iris/LG4000/2009-12-01_03/06080/06080d75.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-12-01_03/06080/06080d77.tiff:
+	Inconsistant image size: (164, 250)
 ../data/nd-iris/LG2200/2009-12-01_03/06082/06082d23.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/06082/06082d24.tiff:
@@ -12832,6 +13448,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/06086/06086d29.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/06086/06086d30.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-12-01_03/06086/06086d31.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/06086/06086d33.tiff:
@@ -13134,8 +13752,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/06096/06096d206.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-12-01_03/06096/06096d37.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2010-02-09_11/06096/06096d83.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-03-16_18/06096/06096d109.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2010-03-16_18/06096/06096d111.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06097/06097d65.tiff:
@@ -13224,6 +13846,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06107/06107d147.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/06107/06107d34.tiff:
+	Inconsistant image size: (250, 224)
 ../data/nd-iris/LG2200/2010-01-26_28/06109/06109d20.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/06111/06111d57.tiff:
@@ -13294,8 +13918,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/06117/06117d60.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-23_25/06117/06117d80.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-23_25/06117/06117d86.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-23_25/06117/06117d88.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-23_25/06117/06117d89.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06117/06117d109.tiff:
@@ -13304,12 +13932,16 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06117/06117d135.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/06117/06117d136.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-04-13_15/06117/06117d142.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/06117/06117d168.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/06117/06117d169.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-27_29/06117/06117d170.tiff:
+	Inconsistant image size: (250, 200)
 ../data/nd-iris/LG2200/2010-04-27_29/06117/06117d177.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-09_11/06117/06117d22.tiff:
@@ -13320,6 +13952,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06120/06120d29.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-01-26_28/06121/06121d19.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG2200/2010-01-26_28/06121/06121d20.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-01-26_28/06121/06121d22.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/06121/06121d52.tiff:
@@ -13348,6 +13984,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-09_11/06121/06121d32.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/06121/06121d126.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2010-04-27_29/06121/06121d154.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06122/06122d26.tiff:
@@ -13412,6 +14050,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-09_11/06126/06126d34.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-27_29/06126/06126d121.tiff:
+	Inconsistant image size: (130, 250)
+../data/nd-iris/LG4000/2010-04-27_29/06126/06126d123.tiff:
+	Inconsistant image size: (130, 250)
+../data/nd-iris/LG4000/2010-04-27_29/06126/06126d125.tiff:
+	Inconsistant image size: (130, 250)
 ../data/nd-iris/LG2200/2010-03-16_18/06128/06128d121.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/06129/06129d50.tiff:
@@ -13716,6 +14360,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/06187/06187d60.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/06187/06187d80.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-09_11/06189/06189d18.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/06189/06189d20.tiff:
@@ -13780,6 +14426,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06193/06193d59.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/06193/06193d32.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2010-04-13_15/06193/06193d34.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG2200/2010-02-23_25/06194/06194d21.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/06194/06194d22.tiff:
@@ -13810,6 +14460,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/06194/06194d2.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-23_25/06194/06194d6.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-03-16_18/06194/06194d31.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-03-16_18/06194/06194d35.tiff:
@@ -13838,6 +14490,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/06197/06197d120.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/06197/06197d66.tiff:
+	Inconsistant image size: (250, 226)
 ../data/nd-iris/LG2200/2010-02-23_25/06198/06198d17.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/06198/06198d18.tiff:
@@ -14040,6 +14694,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/06212/06212d166.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-27_29/06212/06212d140.tiff:
+	Inconsistant image size: (0, 0)
 ../data/nd-iris/LG2200/2010-04-27_29/06215/06215d110.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06216/06216d19.tiff:
@@ -14054,6 +14710,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06221/06221d33.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-03-16_18/06221/06221d2.tiff:
+	Inconsistant image size: (160, 250)
 ../data/nd-iris/LG2200/2010-03-16_18/06227/06227d23.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06227/06227d38.tiff:
@@ -14084,6 +14742,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/06231/06231d86.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-03-16_18/06231/06231d4.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-03-16_18/06231/06231d6.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06232/06232d54.tiff:
@@ -14158,6 +14818,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/06256/06256d59.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/06257/06257d2.tiff:
+	Inconsistant image size: (154, 250)
+../data/nd-iris/LG4000/2010-04-13_15/06257/06257d4.tiff:
+	Inconsistant image size: (134, 250)
 ../data/nd-iris/LG2200/2010-04-13_15/06260/06260d20.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06260/06260d21.tiff:
@@ -14194,6 +14858,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-27_29/06260/06260d32.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/06265/06265d30.tiff:
+	Inconsistant image size: (244, 250)
 ../data/nd-iris/LG2200/2010-04-13_15/06265/06265d32.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06266/06266d19.tiff:
@@ -14250,6 +14916,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/04261/04261d1307.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/04261/04261d1313.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-09_11/04261/04261d1580.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-01_02/04261/04261d996.tiff:
@@ -14260,6 +14928,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-01-20_22/04267/04267d463.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-08_10/04327/04327d1309.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-12-01_03/04327/04327d1986.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/04327/04327d2108.tiff:
@@ -14304,12 +14974,22 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/04385/04385d2157.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-01-26_28/04385/04385d2159.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2010-02-09_11/04385/04385d2185.tiff:
+	Inconsistant image size: (250, 206)
 ../data/nd-iris/LG4000/2010-02-09_11/04385/04385d2187.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-09_11/04385/04385d2189.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/04385/04385d2215.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-23_25/04385/04385d2217.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2010-02-23_25/04385/04385d2219.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-03-03_05/04394/04394d2052.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2008-04-29_01/04394/04394d1588.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-09-23_25/04394/04394d1640.tiff:
@@ -14350,10 +15030,18 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/04418/04418d1031.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/04418/04418d1035.tiff:
+	Inconsistant image size: (248, 250)
+../data/nd-iris/LG2200/2009-12-01_03/04418/04418d1043.tiff:
+	Inconsistant image size: (250, 242)
 ../data/nd-iris/LG2200/2009-12-01_03/04418/04418d1048.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-01-20_22/04418/04418d832.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-03-16_18/04418/04418d1078.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2010-03-16_18/04418/04418d1080.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-03-11_13/04470/04470d1563.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-11_13/04470/04470d1564.tiff:
@@ -14588,6 +15276,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/04470/04470d2372.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-01-26_28/04470/04470d2373.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-01-26_28/04470/04470d2374.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/04470/04470d2375.tiff:
@@ -14696,12 +15386,20 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-24_26/04470/04470d2001.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/04470/04470d2280.tiff:
+	Inconsistant image size: (250, 246)
+../data/nd-iris/LG4000/2009-11-17_19/04470/04470d2308.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-11-17_19/04470/04470d2312.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-17_19/04470/04470d2316.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-01-26_28/04470/04470d2359.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-01-26_28/04470/04470d2361.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-01-26_28/04470/04470d2363.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-04-27_29/04470/04470d2482.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-27_29/04470/04470d2484.tiff:
@@ -14738,8 +15436,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/04649/04649d168.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-09_11/04649/04649d326.tiff:
+	Inconsistant image size: (242, 250)
 ../data/nd-iris/LG2200/2010-02-09_11/04649/04649d330.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-27_29/04649/04649d431.tiff:
+	Inconsistant image size: (250, 238)
 ../data/nd-iris/LG4000/2010-01-26_28/04649/04649d291.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-09_11/04649/04649d317.tiff:
@@ -14764,6 +15466,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-17_19/04725/04725d959.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/04738/04738d348.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/04738/04738d467.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-17_19/04738/04738d437.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-01_02/04815/04815d905.tiff:
@@ -15038,6 +15744,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-01_02/05204/05204d339.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-01_02/05213/05213d383.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2008-04-22_24/05232/05232d450.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-03-25_27/05233/05233d360.tiff:
@@ -15328,10 +16036,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-01_02/05284/05284d168.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-08_10/05284/05284d217.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-04-08_10/05284/05284d220.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-22_24/05284/05284d238.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-23_25/05284/05284d319.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-10-07_09/05284/05284d353.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05284/05284d757.tiff:
@@ -15350,12 +16062,20 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-22_24/05284/05284d233.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-04-29_01/05284/05284d251.tiff:
+	Inconsistant image size: (250, 132)
 ../data/nd-iris/LG4000/2008-09-09_11/05284/05284d276.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-09_11/05284/05284d278.tiff:
+	Inconsistant image size: (250, 226)
 ../data/nd-iris/LG4000/2008-09-23_25/05284/05284d307.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-11-11_13/05284/05284d442.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-12-02_04/05284/05284d579.tiff:
+	Inconsistant image size: (250, 188)
+../data/nd-iris/LG4000/2008-12-02_04/05284/05284d583.tiff:
+	Inconsistant image size: (250, 222)
 ../data/nd-iris/LG4000/2009-02-17_19/05284/05284d740.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-24_26/05284/05284d650.tiff:
@@ -15400,6 +16120,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05293/05293d1032.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-04-22_24/05293/05293d132.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2009-12-01_03/05293/05293d866.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05297/05297d10.tiff:
@@ -15412,10 +16134,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/05301/05301d849.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/05301/05301d909.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2008-04-22_24/05301/05301d203.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-03_05/05301/05301d601.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-03-11_13/05303/05303d207.tiff:
+	Inconsistant image size: (250, 226)
 ../data/nd-iris/LG2200/2008-04-08_10/05303/05303d220.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-08_10/05303/05303d225.tiff:
@@ -15428,6 +16154,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05304/05304d544.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-24_26/05304/05304d463.tiff:
+	Inconsistant image size: (244, 250)
 ../data/nd-iris/LG2200/2008-04-01_02/05306/05306d65.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-29_01/05306/05306d102.tiff:
@@ -15476,6 +16204,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-03_05/05308/05308d276.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/05308/05308d459.tiff:
+	Inconsistant image size: (250, 190)
+../data/nd-iris/LG4000/2009-11-03_05/05308/05308d463.tiff:
+	Inconsistant image size: (250, 184)
+../data/nd-iris/LG4000/2009-11-03_05/05308/05308d467.tiff:
+	Inconsistant image size: (250, 174)
 ../data/nd-iris/LG4000/2010-03-16_18/05308/05308d502.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-27_29/05308/05308d527.tiff:
@@ -15548,6 +16282,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05314/05314d353.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-11-11_13/05314/05314d354.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-12-02_04/05314/05314d506.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05314/05314d507.tiff:
@@ -15722,6 +16458,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/05338/05338d460.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-27_29/05338/05338d518.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-04-27_29/05338/05338d527.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-17_19/05338/05338d322.tiff:
@@ -15756,6 +16494,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/05344/05344d512.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-03-11_13/05366/05366d76.tiff:
+	Inconsistant image size: (250, 242)
 ../data/nd-iris/LG4000/2008-03-11_13/05366/05366d80.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/05366/05366d917.tiff:
@@ -16058,6 +16798,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/05393/05393d525.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-23_25/05393/05393d526.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-23_25/05393/05393d529.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05393/05393d552.tiff:
@@ -16072,12 +16814,32 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05393/05393d562.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-23_25/05393/05393d271.tiff:
+	Inconsistant image size: (250, 228)
+../data/nd-iris/LG4000/2008-10-07_09/05393/05393d57.tiff:
+	Inconsistant image size: (250, 190)
+../data/nd-iris/LG4000/2008-10-28_30/05393/05393d87.tiff:
+	Inconsistant image size: (250, 226)
+../data/nd-iris/LG4000/2008-10-28_30/05393/05393d89.tiff:
+	Inconsistant image size: (250, 204)
+../data/nd-iris/LG4000/2008-10-28_30/05393/05393d91.tiff:
+	Inconsistant image size: (250, 206)
+../data/nd-iris/LG4000/2009-03-03_05/05393/05393d336.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-03-03_05/05393/05393d338.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-04-21_23/05393/05393d443.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-04-21_23/05393/05393d447.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2010-01-26_28/05393/05393d486.tiff:
+	Inconsistant image size: (250, 248)
 ../data/nd-iris/LG4000/2010-01-26_28/05393/05393d488.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/05393/05393d516.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-23_25/05393/05393d518.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2008-12-02_04/05394/05394d125.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-11_13/05399/05399d114.tiff:
@@ -16320,16 +17082,28 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05415/05415d323.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05415/05415d523.tiff:
+	Inconsistant image size: (250, 208)
+../data/nd-iris/LG2200/2009-01-20_22/05415/05415d524.tiff:
+	Inconsistant image size: (250, 194)
 ../data/nd-iris/LG2200/2009-01-20_22/05415/05415d525.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05415/05415d526.tiff:
+	Inconsistant image size: (250, 204)
+../data/nd-iris/LG2200/2009-01-20_22/05415/05415d527.tiff:
+	Inconsistant image size: (250, 236)
 ../data/nd-iris/LG2200/2009-01-20_22/05415/05415d528.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05415/05415d529.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05415/05415d530.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05415/05415d531.tiff:
+	Inconsistant image size: (250, 236)
 ../data/nd-iris/LG2200/2009-01-20_22/05415/05415d532.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05415/05415d533.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-01-20_22/05415/05415d534.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05415/05415d601.tiff:
@@ -16356,6 +17130,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05415/05415d655.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05415/05415d656.tiff:
+	Inconsistant image size: (250, 240)
 ../data/nd-iris/LG2200/2009-04-21_23/05415/05415d659.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05415/05415d660.tiff:
@@ -16370,6 +17146,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/05415/05415d830.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-11-11_13/05415/05415d361.tiff:
+	Inconsistant image size: (250, 178)
+../data/nd-iris/LG4000/2009-11-03_05/05415/05415d780.tiff:
+	Inconsistant image size: (250, 220)
+../data/nd-iris/LG4000/2009-11-03_05/05415/05415d788.tiff:
+	Inconsistant image size: (0, 216)
 ../data/nd-iris/LG2200/2008-03-25_27/05419/05419d85.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-25_27/05419/05419d87.tiff:
@@ -16384,6 +17166,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-22_24/05432/05432d157.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05432/05432d207.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-10-28_30/05432/05432d235.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05432/05432d408.tiff:
@@ -16394,6 +17178,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-10-28_30/05432/05432d228.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-12-02_04/05432/05432d270.tiff:
+	Inconsistant image size: (250, 200)
 ../data/nd-iris/LG4000/2009-03-03_05/05432/05432d462.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-12-01_03/05432/05432d817.tiff:
@@ -16434,8 +17220,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-29_01/05442/05442d138.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-29_01/05444/05444d112.tiff:
+	Inconsistant image size: (250, 246)
 ../data/nd-iris/LG2200/2008-04-22_24/05447/05447d152.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-23_25/05448/05448d196.tiff:
+	Inconsistant image size: (250, 244)
 ../data/nd-iris/LG2200/2008-10-07_09/05448/05448d233.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-03-11_13/05448/05448d92.tiff:
@@ -16472,6 +17262,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-22_24/05454/05454d99.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-03-11_13/05455/05455d39.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-03-11_13/05455/05455d40.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-11_13/05455/05455d50.tiff:
@@ -16496,6 +17288,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05455/05455d273.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-12-02_04/05455/05455d296.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05455/05455d546.tiff:
+	Inconsistant image size: (250, 228)
 ../data/nd-iris/LG2200/2009-02-03_05/05455/05455d549.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05455/05455d550.tiff:
@@ -16518,6 +17314,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05455/05455d485.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05455/05455d577.tiff:
+	Inconsistant image size: (250, 204)
+../data/nd-iris/LG2200/2009-04-21_23/05455/05455d579.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-04-21_23/05455/05455d581.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-11-17_19/05455/05455d781.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/05455/05455d847.tiff:
@@ -16546,14 +17348,20 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05456/05456d226.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/05456/05456d815.tiff:
+	Inconsistant image size: (236, 250)
 ../data/nd-iris/LG2200/2009-12-01_03/05456/05456d818.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/05456/05456d823.tiff:
+	Inconsistant image size: (234, 250)
 ../data/nd-iris/LG2200/2010-02-09_11/05456/05456d878.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/05456/05456d882.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/05456/05456d912.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-23_25/05456/05456d914.tiff:
+	Inconsistant image size: (238, 250)
 ../data/nd-iris/LG4000/2008-04-08_10/05456/05456d69.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-09-09_11/05456/05456d413.tiff:
@@ -16570,6 +17378,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-17_19/05456/05456d592.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/05456/05456d870.tiff:
+	Inconsistant image size: (250, 160)
 ../data/nd-iris/LG4000/2010-03-16_18/05456/05456d939.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-03-16_18/05456/05456d941.tiff:
@@ -16586,6 +17396,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05459/05459d157.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-11-11_13/05459/05459d179.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-03-24_26/05459/05459d392.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-03-11_13/05459/05459d29.tiff:
@@ -16638,6 +17450,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-11_13/05465/05465d113.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-08_10/05465/05465d134.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2008-04-29_01/05465/05465d169.tiff:
+	Inconsistant image size: (250, 194)
 ../data/nd-iris/LG2200/2008-04-29_01/05465/05465d172.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05465/05465d206.tiff:
@@ -16816,6 +17632,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05487/05487d242.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-12-01_03/05487/05487d270.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-03-25_27/05489/05489d36.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-03-25_27/05489/05489d38.tiff:
@@ -16988,6 +17806,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-04-21_23/05501/05501d534.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-23_25/05501/05501d661.tiff:
+	Inconsistant image size: (0, 228)
 ../data/nd-iris/LG2200/2008-04-01_02/05502/05502d58.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-01_02/05502/05502d60.tiff:
@@ -17182,6 +18002,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05512/05512d446.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-10-07_09/05512/05512d334.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-04-22_24/05513/05513d85.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-22_24/05513/05513d86.tiff:
@@ -17316,6 +18138,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-08_10/05517/05517d60.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-22_24/05517/05517d74.tiff:
+	Inconsistant image size: (250, 240)
 ../data/nd-iris/LG2200/2008-12-02_04/05517/05517d102.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-04-22_24/05517/05517d69.tiff:
@@ -17328,6 +18152,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-29_01/05518/05518d109.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-11-11_13/05518/05518d245.tiff:
+	Inconsistant image size: (238, 250)
 ../data/nd-iris/LG2200/2008-12-02_04/05518/05518d404.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05518/05518d439.tiff:
@@ -17440,6 +18266,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05523/05523d264.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05523/05523d249.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-03-03_05/05523/05523d252.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05524/05524d42.tiff:
@@ -17500,6 +18328,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-24_26/05526/05526d249.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-04-22_24/05530/05530d63.tiff:
+	Inconsistant image size: (250, 230)
+../data/nd-iris/LG2200/2008-04-22_24/05530/05530d64.tiff:
+	Inconsistant image size: (250, 238)
 ../data/nd-iris/LG2200/2008-12-02_04/05530/05530d318.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05530/05530d439.tiff:
@@ -17514,6 +18346,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-04-29_01/05531/05531d81.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05531/05531d357.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-17_19/05531/05531d515.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05531/05531d516.tiff:
@@ -17756,6 +18590,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05583/05583d59.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05583/05583d84.tiff:
+	Inconsistant image size: (250, 240)
+../data/nd-iris/LG2200/2009-02-03_05/05583/05583d87.tiff:
+	Inconsistant image size: (250, 222)
 ../data/nd-iris/LG2200/2009-02-03_05/05583/05583d88.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05585/05585d117.tiff:
@@ -17828,6 +18666,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05596/05596d40.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05596/05596d65.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-12-02_04/05596/05596d161.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05596/05596d275.tiff:
@@ -17896,10 +18736,18 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05601/05601d65.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05601/05601d66.tiff:
+	Inconsistant image size: (0, 232)
+../data/nd-iris/LG2200/2008-10-07_09/05601/05601d67.tiff:
+	Inconsistant image size: (246, 0)
 ../data/nd-iris/LG2200/2008-10-07_09/05601/05601d68.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05601/05601d70.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05601/05601d73.tiff:
+	Inconsistant image size: (192, 250)
+../data/nd-iris/LG2200/2008-10-28_30/05601/05601d131.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-10-28_30/05601/05601d134.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05601/05601d156.tiff:
@@ -18006,8 +18854,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05610/05610d78.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-09-23_25/05610/05610d61.tiff:
+	Inconsistant image size: (250, 228)
 ../data/nd-iris/LG4000/2008-09-23_25/05610/05610d63.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/05611/05611d382.tiff:
+	Inconsistant image size: (250, 226)
 ../data/nd-iris/LG2200/2008-09-23_25/05614/05614d13.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05614/05614d18.tiff:
@@ -18098,12 +18950,18 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05616/05616d42.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-23_25/05616/05616d43.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-09-23_25/05616/05616d44.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05616/05616d45.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05616/05616d64.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2008-10-07_09/05616/05616d66.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05616/05616d67.tiff:
+	Inconsistant image size: (250, 208)
 ../data/nd-iris/LG2200/2008-10-07_09/05616/05616d78.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05616/05616d79.tiff:
@@ -18112,6 +18970,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05616/05616d86.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-28_30/05616/05616d106.tiff:
+	Inconsistant image size: (250, 232)
 ../data/nd-iris/LG2200/2008-10-28_30/05616/05616d108.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05616/05616d109.tiff:
@@ -18120,8 +18980,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05616/05616d114.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-28_30/05616/05616d115.tiff:
+	Inconsistant image size: (250, 240)
 ../data/nd-iris/LG2200/2008-10-28_30/05616/05616d117.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-12-02_04/05616/05616d298.tiff:
+	Inconsistant image size: (250, 192)
 ../data/nd-iris/LG2200/2009-01-20_22/05616/05616d335.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05616/05616d342.tiff:
@@ -18130,10 +18994,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05616/05616d395.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05616/05616d396.tiff:
+	Inconsistant image size: (250, 182)
 ../data/nd-iris/LG2200/2009-02-03_05/05616/05616d397.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05616/05616d398.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05616/05616d399.tiff:
+	Inconsistant image size: (250, 222)
 ../data/nd-iris/LG2200/2009-02-03_05/05616/05616d400.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05616/05616d401.tiff:
@@ -18150,12 +19018,18 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05616/05616d634.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/05616/05616d635.tiff:
+	Inconsistant image size: (234, 250)
 ../data/nd-iris/LG2200/2010-01-26_28/05616/05616d665.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/05616/05616d703.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/05616/05616d769.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-11-11_13/05616/05616d154.tiff:
+	Inconsistant image size: (250, 0)
+../data/nd-iris/LG4000/2009-11-17_19/05616/05616d616.tiff:
+	Inconsistant image size: (250, 202)
 ../data/nd-iris/LG4000/2009-11-17_19/05616/05616d624.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05617/05617d100.tiff:
@@ -18296,6 +19170,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05623/05623d777.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-11-11_13/05623/05623d173.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2010-01-26_28/05623/05623d646.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05624/05624d7.tiff:
@@ -18336,6 +19212,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05624/05624d39.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-09_11/05624/05624d46.tiff:
+	Inconsistant image size: (246, 250)
 ../data/nd-iris/LG2200/2008-09-09_11/05624/05624d47.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05624/05624d97.tiff:
@@ -18372,6 +19250,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05624/05624d469.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05624/05624d470.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-04-21_23/05624/05624d478.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/05624/05624d571.tiff:
@@ -18386,6 +19266,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-09_11/05624/05624d580.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-03_05/05626/05626d557.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-09-09_11/05627/05627d15.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05628/05628d63.tiff:
@@ -18402,6 +19284,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05629/05629d65.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-07_09/05629/05629d67.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-10-07_09/05629/05629d71.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-07_09/05629/05629d74.tiff:
@@ -18450,6 +19334,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-24_26/05629/05629d356.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-04-21_23/05629/05629d477.tiff:
+	Inconsistant image size: (230, 250)
 ../data/nd-iris/LG2200/2008-09-09_11/05630/05630d12.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-09_11/05630/05630d13.tiff:
@@ -18490,8 +19376,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05638/05638d242.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-23_25/05638/05638d328.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG4000/2008-10-07_09/05641/05641d63.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-10-07_09/05641/05641d65.tiff:
+	Inconsistant image size: (250, 218)
 ../data/nd-iris/LG2200/2008-09-09_11/05642/05642d16.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/05642/05642d367.tiff:
@@ -18636,6 +19526,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05653/05653d369.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05653/05653d378.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-04-21_23/05653/05653d450.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-03_05/05653/05653d438.tiff:
@@ -18876,6 +19768,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05662/05662d214.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05662/05662d228.tiff:
+	Inconsistant image size: (250, 234)
 ../data/nd-iris/LG2200/2008-09-23_25/05663/05663d18.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05663/05663d374.tiff:
@@ -18922,6 +19816,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05668/05668d368.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-09-23_25/05669/05669d9.tiff:
+	Inconsistant image size: (250, 248)
 ../data/nd-iris/LG2200/2009-12-01_03/05669/05669d589.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05669/05669d590.tiff:
@@ -18948,10 +19844,18 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-09-23_25/05673/05673d13.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-12-02_04/05673/05673d94.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-12-02_04/05673/05673d97.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-12-02_04/05673/05673d100.tiff:
+	Inconsistant image size: (250, 238)
 ../data/nd-iris/LG2200/2009-01-20_22/05673/05673d190.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-17_19/05673/05673d294.tiff:
+	Inconsistant image size: (250, 234)
+../data/nd-iris/LG2200/2009-11-17_19/05673/05673d296.tiff:
+	Inconsistant image size: (250, 224)
 ../data/nd-iris/LG2200/2009-11-17_19/05673/05673d304.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/05673/05673d358.tiff:
@@ -18966,6 +19870,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/05673/05673d412.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-28_30/05674/05674d33.tiff:
+	Inconsistant image size: (250, 146)
 ../data/nd-iris/LG2200/2008-12-02_04/05674/05674d89.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05674/05674d94.tiff:
@@ -18984,6 +19890,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05674/05674d355.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-17_19/05674/05674d333.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-17_19/05674/05674d335.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05674/05674d337.tiff:
@@ -19006,6 +19914,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/05674/05674d541.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-03-16_18/05674/05674d569.tiff:
+	Inconsistant image size: (246, 250)
+../data/nd-iris/LG4000/2010-04-13_15/05674/05674d599.tiff:
+	Inconsistant image size: (250, 202)
 ../data/nd-iris/LG2200/2008-10-28_30/05675/05675d69.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05674/05674d248.tiff:
@@ -19130,6 +20042,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-10-28_30/05682/05682d38.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-28_30/05682/05682d39.tiff:
+	Inconsistant image size: (242, 250)
 ../data/nd-iris/LG2200/2009-01-20_22/05682/05682d236.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05682/05682d388.tiff:
@@ -19236,6 +20150,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/05696/05696d560.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-17_19/05696/05696d562.tiff:
+	Inconsistant image size: (206, 250)
 ../data/nd-iris/LG2200/2009-12-01_03/05696/05696d583.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/05696/05696d628.tiff:
@@ -19296,6 +20212,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/05704/05704d591.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05705/05705d326.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2008-12-02_04/05708/05708d40.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05708/05708d41.tiff:
@@ -19362,6 +20280,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-03-16_18/05713/05713d368.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-10-28_30/05714/05714d17.tiff:
+	Inconsistant image size: (250, 248)
 ../data/nd-iris/LG2200/2008-12-02_04/05714/05714d160.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05714/05714d332.tiff:
@@ -19570,8 +20490,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/05724/05724d377.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/05724/05724d405.tiff:
+	Inconsistant image size: (250, 164)
 ../data/nd-iris/LG4000/2010-02-09_11/05724/05724d407.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-12-02_04/05729/05729d91.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-03_05/05729/05729d154.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05729/05729d158.tiff:
@@ -19602,14 +20526,20 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05733/05733d138.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05733/05733d181.tiff:
+	Inconsistant image size: (248, 250)
 ../data/nd-iris/LG2200/2008-12-02_04/05735/05735d87.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05735/05735d117.tiff:
+	Inconsistant image size: (250, 214)
 ../data/nd-iris/LG2200/2008-11-11_13/05737/05737d9.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-03_05/05737/05737d96.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05737/05737d151.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/05737/05737d159.tiff:
+	Inconsistant image size: (250, 248)
 ../data/nd-iris/LG2200/2008-11-11_13/05738/05738d9.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-11-11_13/05738/05738d10.tiff:
@@ -19714,6 +20644,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05753/05753d109.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05753/05753d110.tiff:
+	Inconsistant image size: (234, 250)
 ../data/nd-iris/LG4000/2008-12-02_04/05753/05753d30.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2008-12-02_04/05753/05753d34.tiff:
@@ -19738,6 +20670,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05761/05761d104.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/05761/05761d443.tiff:
+	Inconsistant image size: (250, 238)
 ../data/nd-iris/LG2200/2010-02-23_25/05761/05761d546.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-24_26/05761/05761d131.tiff:
@@ -19836,6 +20770,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05767/05767d18.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2008-12-02_04/05767/05767d1.tiff:
+	Inconsistant image size: (250, 216)
 ../data/nd-iris/LG4000/2008-12-02_04/05767/05767d5.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-04-21_23/05767/05767d77.tiff:
@@ -20140,6 +21076,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05779/05779d60.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2008-12-02_04/05782/05782d7.tiff:
+	Inconsistant image size: (250, 238)
 ../data/nd-iris/LG2200/2008-12-02_04/05782/05782d8.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2008-12-02_04/05782/05782d10.tiff:
@@ -20148,6 +21086,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-03_05/05782/05782d89.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05783/05783d100.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-11-03_05/05783/05783d346.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05785/05785d188.tiff:
@@ -20314,6 +21254,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05791/05791d131.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05791/05791d143.tiff:
+	Inconsistant image size: (250, 242)
+../data/nd-iris/LG2200/2009-03-03_05/05791/05791d145.tiff:
+	Inconsistant image size: (250, 214)
+../data/nd-iris/LG2200/2009-03-03_05/05791/05791d146.tiff:
+	Inconsistant image size: (250, 244)
 ../data/nd-iris/LG4000/2009-03-03_05/05791/05791d108.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05792/05792d24.tiff:
@@ -20348,6 +21294,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05794/05794d167.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-12-01_03/05794/05794d180.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-12-01_03/05794/05794d182.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-11-17_19/05795/05795d300.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/05795/05795d317.tiff:
@@ -20364,6 +21314,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-24_26/05796/05796d96.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-17_19/05797/05797d292.tiff:
+	Inconsistant image size: (250, 240)
 ../data/nd-iris/LG2200/2009-02-03_05/05798/05798d199.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05798/05798d224.tiff:
@@ -20372,6 +21324,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05798/05798d249.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05798/05798d267.tiff:
+	Inconsistant image size: (240, 250)
 ../data/nd-iris/LG4000/2009-11-17_19/05798/05798d415.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05799/05799d187.tiff:
@@ -20792,6 +21746,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05814/05814d95.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-01-20_22/05814/05814d55.tiff:
+	Inconsistant image size: (250, 182)
+../data/nd-iris/LG4000/2009-01-20_22/05814/05814d57.tiff:
+	Inconsistant image size: (250, 208)
+../data/nd-iris/LG4000/2009-01-20_22/05814/05814d59.tiff:
+	Inconsistant image size: (250, 192)
 ../data/nd-iris/LG2200/2009-04-21_23/05815/05815d220.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/05815/05815d492.tiff:
@@ -20878,6 +21838,24 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-24_26/05821/05821d86.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05823/05823d40.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05823/05823d41.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05823/05823d44.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05823/05823d45.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05823/05823d46.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05823/05823d47.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05823/05823d48.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05823/05823d49.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05823/05823d50.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-03-24_26/05824/05824d101.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05824/05824d105.tiff:
@@ -20930,6 +21908,18 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-01-20_22/05829/05829d31.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-01-20_22/05829/05829d36.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05829/05829d37.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05829/05829d38.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05829/05829d40.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05829/05829d41.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-01-20_22/05829/05829d42.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-03_05/05829/05829d70.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05829/05829d73.tiff:
@@ -20966,6 +21956,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05833/05833d146.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05833/05833d228.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-01-20_22/05834/05834d75.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-03_05/05834/05834d137.tiff:
@@ -21050,6 +22042,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-17_19/05842/05842d144.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/05842/05842d345.tiff:
+	Inconsistant image size: (0, 168)
 ../data/nd-iris/LG2200/2009-02-03_05/05844/05844d94.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05844/05844d215.tiff:
@@ -21240,8 +22234,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/05853/05853d478.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05854/05854d39.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-02-03_05/05854/05854d41.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-23_25/05854/05854d222.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/05854/05854d253.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-03_05/05855/05855d145.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05855/05855d148.tiff:
@@ -21296,6 +22296,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05857/05857d311.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-01-26_28/05857/05857d346.tiff:
+	Inconsistant image size: (250, 226)
 ../data/nd-iris/LG2200/2010-03-16_18/05858/05858d296.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/05859/05859d324.tiff:
@@ -21312,6 +22314,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05861/05861d106.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-02-03_05/05861/05861d173.tiff:
+	Inconsistant image size: (250, 176)
 ../data/nd-iris/LG2200/2009-02-03_05/05863/05863d29.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05864/05864d102.tiff:
@@ -21320,8 +22324,16 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-02-17_19/05864/05864d66.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05865/05865d112.tiff:
+	Inconsistant image size: (250, 248)
+../data/nd-iris/LG2200/2009-03-03_05/05865/05865d114.tiff:
+	Inconsistant image size: (250, 248)
+../data/nd-iris/LG2200/2009-03-03_05/05865/05865d116.tiff:
+	Inconsistant image size: (250, 240)
 ../data/nd-iris/LG2200/2009-03-24_26/05865/05865d75.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-17_19/05868/05868d136.tiff:
+	Inconsistant image size: (250, 214)
 ../data/nd-iris/LG4000/2009-03-03_05/05868/05868d82.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05870/05870d61.tiff:
@@ -21330,6 +22342,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-04-21_23/05870/05870d115.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-17_19/05870/05870d183.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-04-21_23/05871/05871d102.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05871/05871d282.tiff:
@@ -21342,6 +22356,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05872/05872d132.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-02-03_05/05876/05876d53.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-03_05/05876/05876d54.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-03_05/05876/05876d63.tiff:
@@ -21360,6 +22376,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/05881/05881d336.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-17_19/05881/05881d193.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-12-01_03/05881/05881d222.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-02-17_19/05884/05884d134.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05884/05884d139.tiff:
@@ -21486,6 +22506,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05892/05892d146.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05892/05892d149.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2009-04-21_23/05892/05892d150.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/05892/05892d316.tiff:
@@ -21716,6 +22738,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-24_26/05917/05917d24.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/05917/05917d140.tiff:
+	Inconsistant image size: (250, 212)
+../data/nd-iris/LG4000/2009-11-03_05/05917/05917d144.tiff:
+	Inconsistant image size: (250, 208)
+../data/nd-iris/LG4000/2009-11-03_05/05917/05917d148.tiff:
+	Inconsistant image size: (250, 218)
+../data/nd-iris/LG4000/2010-01-26_28/05917/05917d151.tiff:
+	Inconsistant image size: (250, 206)
 ../data/nd-iris/LG2200/2009-02-17_19/05918/05918d73.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-02-17_19/05918/05918d74.tiff:
@@ -21738,6 +22768,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05920/05920d117.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-03_05/05922/05922d51.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-03-03_05/05922/05922d61.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05922/05922d94.tiff:
@@ -21780,6 +22812,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05932/05932d65.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-04-21_23/05933/05933d54.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-04-21_23/05933/05933d55.tiff:
+	Inconsistant image size: (250, 238)
 ../data/nd-iris/LG2200/2009-04-21_23/05933/05933d59.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-04-21_23/05933/05933d61.tiff:
@@ -21792,6 +22828,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/05937/05937d100.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-23_25/05937/05937d109.tiff:
+	Inconsistant image size: (250, 214)
 ../data/nd-iris/LG2200/2010-03-16_18/05937/05937d136.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05938/05938d75.tiff:
@@ -21810,6 +22848,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-03-03_05/05942/05942d62.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-09_11/05943/05943d55.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-03-03_05/05944/05944d71.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-03_05/05944/05944d72.tiff:
@@ -21930,6 +22970,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/05957/05957d212.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-03-24_26/05958/05958d48.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-03-24_26/05963/05963d49.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-03-24_26/05963/05963d50.tiff:
@@ -22098,6 +23140,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/05970/05970d84.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/05970/05970d109.tiff:
+	Inconsistant image size: (250, 0)
 ../data/nd-iris/LG2200/2010-01-26_28/05970/05970d142.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/05970/05970d144.tiff:
@@ -22264,6 +23308,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/06004/06004d114.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/06004/06004d115.tiff:
+	Inconsistant image size: (250, 228)
 ../data/nd-iris/LG2200/2009-12-01_03/06004/06004d116.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/06004/06004d117.tiff:
@@ -22354,12 +23400,36 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06004/06004d236.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/06004/06004d60.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2009-11-03_05/06004/06004d64.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/06004/06004d68.tiff:
+	Inconsistant image size: (250, 134)
+../data/nd-iris/LG4000/2009-11-17_19/06004/06004d104.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG4000/2009-12-01_03/06004/06004d141.tiff:
+	Inconsistant image size: (250, 190)
+../data/nd-iris/LG4000/2009-12-01_03/06004/06004d143.tiff:
+	Inconsistant image size: (250, 162)
+../data/nd-iris/LG4000/2009-12-01_03/06004/06004d145.tiff:
+	Inconsistant image size: (250, 226)
+../data/nd-iris/LG4000/2010-01-26_28/06004/06004d147.tiff:
+	Inconsistant image size: (134, 250)
+../data/nd-iris/LG4000/2010-01-26_28/06004/06004d149.tiff:
+	Inconsistant image size: (250, 162)
 ../data/nd-iris/LG4000/2010-01-26_28/06004/06004d151.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-03-16_18/06004/06004d189.tiff:
+	Inconsistant image size: (250, 160)
+../data/nd-iris/LG4000/2010-03-16_18/06004/06004d191.tiff:
+	Inconsistant image size: (250, 170)
+../data/nd-iris/LG4000/2010-03-16_18/06004/06004d193.tiff:
+	Inconsistant image size: (250, 184)
 ../data/nd-iris/LG4000/2010-04-13_15/06004/06004d219.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/06004/06004d223.tiff:
+	Inconsistant image size: (250, 168)
 ../data/nd-iris/LG2200/2010-03-16_18/06005/06005d238.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-03_05/06007/06007d39.tiff:
@@ -22418,6 +23488,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-17_19/06012/06012d99.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-17_19/06012/06012d103.tiff:
+	Inconsistant image size: (250, 214)
 ../data/nd-iris/LG4000/2009-12-01_03/06012/06012d132.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/06012/06012d197.tiff:
@@ -22450,6 +23522,20 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06015/06015d248.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/06016/06016d69.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-12-01_03/06016/06016d70.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-12-01_03/06016/06016d71.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-12-01_03/06016/06016d72.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-12-01_03/06016/06016d73.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-12-01_03/06016/06016d74.tiff:
+	Inconsistant image size: (0, 250)
+../data/nd-iris/LG2200/2009-12-01_03/06016/06016d75.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-03-16_18/06016/06016d193.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06016/06016d201.tiff:
@@ -22492,6 +23578,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-09_11/06019/06019d211.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-11-03_05/06021/06021d33.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-01-26_28/06022/06022d99.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-03_05/06022/06022d50.tiff:
@@ -22508,6 +23596,10 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-12-01_03/06026/06026d112.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-11-03_05/06026/06026d61.tiff:
+	Inconsistant image size: (250, 214)
+../data/nd-iris/LG4000/2009-11-03_05/06026/06026d65.tiff:
+	Inconsistant image size: (250, 230)
 ../data/nd-iris/LG4000/2009-11-17_19/06026/06026d137.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/06026/06026d145.tiff:
@@ -22808,6 +23900,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-27_29/06049/06049d228.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-01-26_28/06049/06049d89.tiff:
+	Inconsistant image size: (250, 214)
 ../data/nd-iris/LG4000/2010-02-23_25/06049/06049d147.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2009-11-17_19/06050/06050d29.tiff:
@@ -22850,8 +23944,12 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-11-17_19/06051/06051d57.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-01-26_28/06051/06051d92.tiff:
+	Inconsistant image size: (148, 250)
 ../data/nd-iris/LG4000/2010-02-09_11/06051/06051d120.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-23_25/06051/06051d152.tiff:
+	Inconsistant image size: (250, 182)
 ../data/nd-iris/LG4000/2010-04-13_15/06051/06051d210.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/06051/06051d212.tiff:
@@ -22896,10 +23994,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/06061/06061d159.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/06061/06061d189.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG4000/2010-02-23_25/06061/06061d147.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/06061/06061d151.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-01-26_28/06065/06065d97.tiff:
+	Inconsistant image size: (250, 238)
 ../data/nd-iris/LG2200/2010-01-26_28/06065/06065d98.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06065/06065d101.tiff:
@@ -22918,6 +24020,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/06068/06068d92.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/06071/06071d189.tiff:
+	Inconsistant image size: (250, 246)
 ../data/nd-iris/LG4000/2010-03-16_18/06071/06071d148.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-03-16_18/06071/06071d150.tiff:
@@ -23028,12 +24132,16 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2009-12-01_03/06082/06082d37.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2009-12-01_03/06082/06082d39.tiff:
+	Inconsistant image size: (250, 176)
 ../data/nd-iris/LG4000/2010-01-26_28/06082/06082d43.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/06082/06082d45.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-23_25/06082/06082d112.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-23_25/06082/06082d114.tiff:
+	Inconsistant image size: (250, 192)
 ../data/nd-iris/LG4000/2010-03-16_18/06082/06082d142.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-03-16_18/06082/06082d146.tiff:
@@ -23090,6 +24198,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/06085/06085d76.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2009-12-01_03/06086/06086d16.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2009-12-01_03/06086/06086d20.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06086/06086d58.tiff:
@@ -23344,6 +24454,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06109/06109d127.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/06111/06111d65.tiff:
+	Inconsistant image size: (250, 230)
 ../data/nd-iris/LG4000/2010-02-09_11/06111/06111d29.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06112/06112d13.tiff:
@@ -23354,10 +24466,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06112/06112d53.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/06112/06112d58.tiff:
+	Inconsistant image size: (250, 128)
 ../data/nd-iris/LG2200/2010-01-26_28/06113/06113d15.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06113/06113d107.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-03-16_18/06113/06113d66.tiff:
+	Inconsistant image size: (250, 228)
 ../data/nd-iris/LG4000/2010-03-16_18/06113/06113d68.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06114/06114d10.tiff:
@@ -23376,6 +24492,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06117/06117d7.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-01-26_28/06117/06117d8.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-09_11/06117/06117d37.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/06117/06117d68.tiff:
@@ -23390,6 +24508,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-02-09_11/06121/06121d31.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-09_11/06121/06121d33.tiff:
+	Inconsistant image size: (250, 170)
+../data/nd-iris/LG4000/2010-02-23_25/06121/06121d61.tiff:
+	Inconsistant image size: (250, 152)
+../data/nd-iris/LG4000/2010-02-23_25/06121/06121d63.tiff:
+	Inconsistant image size: (250, 150)
+../data/nd-iris/LG4000/2010-02-23_25/06121/06121d65.tiff:
+	Inconsistant image size: (250, 170)
 ../data/nd-iris/LG4000/2010-04-13_15/06121/06121d125.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-01-26_28/06122/06122d1.tiff:
@@ -23420,6 +24546,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06123/06123d9.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-01-26_28/06123/06123d11.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-09_11/06123/06123d37.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/06123/06123d39.tiff:
@@ -23434,6 +24562,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-01-26_28/06125/06125d18.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-04-13_15/06125/06125d95.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-02-09_11/06127/06127d45.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/06128/06128d88.tiff:
@@ -23646,6 +24776,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-09_11/06176/06176d7.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-02-09_11/06184/06184d13.tiff:
+	Inconsistant image size: (244, 250)
 ../data/nd-iris/LG2200/2010-02-09_11/06184/06184d18.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06184/06184d40.tiff:
@@ -23714,10 +24846,14 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-02-23_25/06194/06194d18.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/06194/06194d41.tiff:
+	Inconsistant image size: (240, 250)
 ../data/nd-iris/LG2200/2010-03-16_18/06194/06194d45.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06194/06194d46.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG4000/2010-02-23_25/06194/06194d3.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-03-16_18/06197/06197d43.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-04-13_15/06197/06197d69.tiff:
@@ -23738,10 +24874,18 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06199/06199d38.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-27_29/06199/06199d100.tiff:
+	Inconsistant image size: (250, 232)
 ../data/nd-iris/LG4000/2010-03-16_18/06199/06199d31.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/06199/06199d61.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-03-16_18/06200/06200d38.tiff:
+	Inconsistant image size: (250, 248)
+../data/nd-iris/LG2200/2010-03-16_18/06200/06200d42.tiff:
+	Inconsistant image size: (250, 238)
+../data/nd-iris/LG2200/2010-03-16_18/06200/06200d44.tiff:
+	Inconsistant image size: (250, 232)
 ../data/nd-iris/LG2200/2010-02-23_25/06201/06201d8.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06201/06201d41.tiff:
@@ -23878,6 +25022,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG2200/2010-03-16_18/06238/06238d7.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/06238/06238d39.tiff:
+	Inconsistant image size: (0, 250)
 ../data/nd-iris/LG2200/2010-04-27_29/06238/06238d74.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-03-16_18/06238/06238d5.tiff:
@@ -23936,6 +25082,8 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-27_29/06260/06260d35.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/06261/06261d7.tiff:
+	Inconsistant image size: (250, 202)
 ../data/nd-iris/LG2200/2010-04-13_15/06261/06261d14.tiff:
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-13_15/06265/06265d1.tiff:
@@ -23956,3 +25104,5 @@
 	'NoneType' object is not subscriptable
 ../data/nd-iris/LG4000/2010-04-27_29/06267/06267d31.tiff:
 	'NoneType' object is not subscriptable
+../data/nd-iris/LG2200/2010-04-13_15/06269/06269d8.tiff:
+	Inconsistant image size: (0, 250)
