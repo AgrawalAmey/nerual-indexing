@@ -100,7 +100,8 @@ def resnet_model_fn(features, labels, mode, model_class,
     else:
         train_op = None
 
-    metrics = {'triplet_loss': triplet_loss}
+    triplet_loss_metric = tf.metrics.mean(triplet_loss)
+    metrics = {'triplet_loss': triplet_loss_metric}
 
     return tf.estimator.EstimatorSpec(
         mode=mode,
