@@ -309,6 +309,7 @@ autoencoder.fit_generator(generator=get_train_generator(),
                 validation_steps=190,
                 workers = 0,
                 use_multiprocessing=True,
-                callbacks=[TensorBoard(log_dir='../iris_ae/deep_iris_net_3'),
-			   ModelCheckpoint("deep_iris_net_3.{epoch:02d}-{val_loss:.2f}.hdf5", save_weights_only=True),
-               PlotVisdom()])
+                callbacks=[TensorBoard(log_dir='../logs/' + time.time()),
+			               ModelCheckpoint("../checkpoints/" + time.time() + ".{epoch:02d}-{val_loss:.2f}.hdf5",
+                                           save_weights_only=True),
+                           PlotVisdom()])
