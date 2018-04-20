@@ -1,4 +1,4 @@
-
+n
 # coding: utf-8
 
 # In[1]:
@@ -22,8 +22,6 @@ from tensorflow.python import debug as tf_debug
 import time
 import visdom
 
-
-plt.switch_backend('agg')
 # In[2]:
 
 
@@ -259,14 +257,14 @@ autoencoder.compile(optimizer='adam', loss='mean_squared_error')
 # In[9]:
 
 
-get_train_generator = lambda: inputs(K.get_session(), '../../../data/nd-iris-train-*.tfrecords', 400, 25)
-get_val_generator = lambda: inputs(K.get_session(), '../../../data/nd-iris-val-*.tfrecords', 400, 25)
+get_train_generator = lambda: inputs(K.get_session(), '../../../data/nd-iris-train-*.tfrecords', 400, 50)
+get_val_generator = lambda: inputs(K.get_session(), '../../../data/nd-iris-val-*.tfrecords', 400, 50)
 
 
 class PlotVisdom(Callback):
     def on_train_begin(self, logs={}):
 
-        self.vis = visdom.Visdom(port=21002)
+        self.vis = visdom.Visdom()
         startup_sec = 1
         while not self.vis.check_connection()\
                 and startup_sec > 0:
@@ -280,24 +278,22 @@ class PlotVisdom(Callback):
         self.val_generator = get_val_generator()
 
     def plot_figures(self, generator, epoch, logs):
+        images_to_plot = []
         for image, _ in generator:
-            image = image[0]
             decoded = autoencoder.predict(image)
 
-            fig, axes = plt.subplots(nrows=8, ncols=2, figsize=(20, 10))
             for row in range(8):
-                axes[row, 0].axis("off")
-                axes[row, 1].axis("off")
-                axes[row, 0].set_title("Input")
-                axes[row, 0].imshow(image[row].reshape(64, 512))
-                axes[row, 1].set_title("Output")
-                axes[row, 1].imshow(decoded[row].reshape(64, 512))
+
+                images_to_plot.append(image[row].reshape(1, 64, 512))
+                images_to_plot.append(decoded[row].reshape(1, 64, 512))
             break
-        title = 'Epoch: {}, Training Loss: {}, Validation Loss: {}'.format(
-            epoch, logs.get('loss'), logs.get('val_loss'))
+        title = 'Epoch: {}'.format(epoch)
 
-        self.vis.matplot(fig, opts=dict(title=title))
+        caption = 'Training Loss: {}, Validation Loss: {}'.format(
+            logs.get('loss'), logs.get('val_loss'))
 
+        self.vis.images(images_to_plot, opts=dict(
+            nrow=8, title=title, caption=caption))
 
     def on_epoch_end(self, epoch, logs={}):
         self.plot_figures(self.train_generator, epoch, logs)
@@ -308,12 +304,12 @@ class PlotVisdom(Callback):
 
 autoencoder.fit_generator(generator=get_train_generator(),
                 epochs=25,
-                steps_per_epoch=256, # batch size 400
+                steps_per_epoch=265, # batch size 400
                 validation_data=get_val_generator(),
-                validation_steps=30,
+                validation_steps=190,
                 workers = 0,
                 use_multiprocessing=True,
-                callbacks=[TensorBoard(log_dir='../../logs/' + str(time.time())),
-			               ModelCheckpoint("../../checkpoints/" + str(time.time()) + ".{epoch:02d}-{val_loss:.2f}.hdf5",
+                callbacks=[TensorBoard(log_dir='../../logs/' + time.time()),
+			               ModelCheckpoint("../../checkpoints/" + time.time() + ".{epoch:02d}-{val_loss:.2f}.hdf5",
                                            save_weights_only=True),
                            PlotVisdom()])
