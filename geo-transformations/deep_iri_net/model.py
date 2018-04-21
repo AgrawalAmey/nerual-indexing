@@ -1,5 +1,5 @@
 from keras.layers import Add, AveragePooling2D, BatchNormalization, Concatenate, Conv2D, Dense, Dropout,\
-    Input, Lambda, MaxPooling2D, Reshape, UpSampling2D
+    Flatten, Input, Lambda, MaxPooling2D, Reshape, UpSampling2D
 from keras.models import Model
 from keras.utils import multi_gpu_model
 
@@ -30,6 +30,7 @@ def get_model():
     x = MaxPooling2D((2, 2))(x)
 
     x = BatchNormalization()(x)
+    x = Flatten(x)
     x = Dense(4096, activation='relu')(x)
     x = Dropout(0.5)(x)
     x = Dense(4096, activation='relu')(x)
