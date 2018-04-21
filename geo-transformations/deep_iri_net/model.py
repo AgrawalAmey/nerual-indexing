@@ -30,7 +30,7 @@ def get_model():
     x = MaxPooling2D((2, 2))(x)
 
     x = BatchNormalization()(x)
-    x = Flatten(x)
+    x = Flatten()(x)
     x = Dense(4096, activation='relu')(x)
     x = Dropout(0.5)(x)
     x = Dense(4096, activation='relu')(x)
