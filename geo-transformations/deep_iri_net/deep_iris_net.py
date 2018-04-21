@@ -12,16 +12,16 @@ from model import get_model
 
 data_loader = DataLoader(1352)
 
-get_train_generator = lambda: data_loader.inputs(K.get_session(), '../../../data/nd-iris-train-*.tfrecords', 400, 25)
-get_val_generator = lambda: data_loader.inputs(K.get_session(), '../../../data/nd-iris-val-*.tfrecords', 400, 25)
+get_train_generator = lambda: data_loader.inputs(K.get_session(), '../../../data/nd-iris-train-*.tfrecords', 100, 50)
+get_val_generator = lambda: data_loader.inputs(K.get_session(), '../../../data/nd-iris-val-*.tfrecords', 100, 50)
 
 deep_iris_net = get_model()
 
 deep_iris_net.fit_generator(generator=get_train_generator(),
-                epochs=25,
-                steps_per_epoch=256, # batch size 400
+                epochs=50,
+                steps_per_epoch=1024, # batch size 100
                 validation_data=get_val_generator(),
-                validation_steps=30,
+                validation_steps=120,
                 workers = 0,
                 use_multiprocessing=True,
                 callbacks=[TensorBoard(log_dir='../../logs/deep_iris_net/' + str(time.time())),

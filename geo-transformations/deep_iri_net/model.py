@@ -8,27 +8,33 @@ def get_model():
 
     x = Conv2D(32, (7, 7), activation='relu', padding='same')(input_img)
     x = BatchNormalization()(x)
-    x = Conv2D(64, (5, 5), activation='relu', padding='same')(x)
+    x = Conv2D(64, (7, 7), activation='relu', padding='same')(x)
     x = MaxPooling2D((2, 2))(x)
-
+    #  32, 256, 64
     x = BatchNormalization()(x)
-    x = Conv2D(128, (3, 3), activation='relu', padding='same')(x)
+    x = Conv2D(128, (5, 5), activation='relu', padding='same')(x)
     x = BatchNormalization()(x)
-    x = Conv2D(192, (3, 3), activation='relu', padding='same')(x)
+    x = Conv2D(192, (5, 5), activation='relu', padding='same')(x)
     x = MaxPooling2D((2, 2))(x)
-
+    # 16, 128, 192
     x = BatchNormalization()(x)
     x = Conv2D(256, (3, 3), activation='relu', padding='same')(x)
     x = BatchNormalization()(x)
     x = Conv2D(320, (3, 3), activation='relu', padding='same')(x)
     x = MaxPooling2D((2, 2))(x)
-
+    # 8, 64, 320
     x = BatchNormalization()(x)
     x = Conv2D(480, (3, 3), activation='relu', padding='same')(x)
     x = BatchNormalization()(x)
     x = Conv2D(512, (3, 3), activation='relu', padding='same')(x)
     x = MaxPooling2D((2, 2))(x)
-
+    # 4, 32, 512
+    x = BatchNormalization()(x)
+    x = Conv2D(512, (3, 3), activation='relu', padding='same')(x)
+    x = BatchNormalization()(x)
+    x = Conv2D(512, (3, 3), activation='relu', padding='same')(x)
+    x = MaxPooling2D((2, 2))(x)
+    # 2, 16, 512
     x = BatchNormalization()(x)
     x = Flatten()(x)
     x = Dense(4096, activation='relu')(x)

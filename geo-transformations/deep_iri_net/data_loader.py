@@ -35,7 +35,7 @@ class DataLoader(object):
         return image, label
 
     def label_to_onehot(self, labels):
-        onehot_vector = np.zeros(len(labels), self.num_classes)
+        onehot_vector = np.zeros((len(labels), self.num_classes))
         
         for i, label in enumerate(labels):    
             if label not in self.labels:   
