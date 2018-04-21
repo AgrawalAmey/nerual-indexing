@@ -3,7 +3,7 @@ from keras.layers import Add, AveragePooling2D, BatchNormalization, Concatenate,
     Flatten, Input, Lambda, MaxPooling2D, Reshape, UpSampling2D
 from keras.models import Model
 from keras.utils import multi_gpu_model
-from tensorflow.contrib.losses.metric_learning import triplet_semihard_loss
+import tensorflow as tf
 
 def get_model(embedding_size=128, triplet_loss_margin=0.2):
     input_img = Input(shape=(64, 512, 1))
@@ -47,7 +47,9 @@ def get_model(embedding_size=128, triplet_loss_margin=0.2):
 
     embedding = Lambda(lambda x: K.l2_normalize(x, axis=1))(x)
 
-    triplet_loss = lambda labels, embeddings: triplet_semihard_loss(labels, embeddings)
+    def triplet_loss(labels, embeddings): 
+        return tf.contrib.losses.metric_learning.triplet_semihard_loss(
+        labels[:, 0], embeddings)
 
     deep_iris_net = Model(inputs=input_img, outputs=embedding)
     deep_iris_net = multi_gpu_model(deep_iris_net, gpus=4)

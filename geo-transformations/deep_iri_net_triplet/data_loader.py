@@ -3,7 +3,9 @@ import tensorflow as tf
 
 
 class DataLoader(object):
-    
+    def __init__(self, embedding_size):
+        self.embedding_size = embedding_size
+
     def decode(self, serialized_example):
         """Parses an image and label from the given `serialized_example`."""
         features = tf.parse_single_example(
@@ -85,5 +87,6 @@ class DataLoader(object):
             while True:
                 images, labels = iterator.get_next()
                 images, labels = sess.run([images, labels])
-                
+                lables = np.repeat(labels, self.embedding_size).\
+                           .reshape(-1, self.embedding_size)
                 yield (images, labels)
