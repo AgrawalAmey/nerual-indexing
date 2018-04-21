@@ -3,7 +3,7 @@ from keras.layers import Add, AveragePooling2D, BatchNormalization, Concatenate,
     Flatten, Input, Lambda, MaxPooling2D, Reshape, UpSampling2D
 from keras.models import Model
 from keras.utils import multi_gpu_model
-from tf.contrib.losses.metric_learning import triplet_semihard_loss
+from tensorflow.contrib.losses.metric_learning import triplet_semihard_loss
 
 def get_model(embedding_size=128, triplet_loss_margin=0.2):
     input_img = Input(shape=(64, 512, 1))
