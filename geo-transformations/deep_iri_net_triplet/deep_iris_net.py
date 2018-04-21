@@ -24,6 +24,6 @@ deep_iris_net.fit_generator(generator=get_train_generator(),
                 validation_steps=120,
                 workers = 0,
                 use_multiprocessing=True,
-                callbacks=[TensorBoard(log_dir='../../logs/deep_iris_net/' + str(time.time())),
-                           ModelCheckpoint("../../checkpoints/deep_iris_net/" + str(time.time()) + ".{epoch:02d}-{val_loss:.2f}.hdf5",
+                callbacks=[TensorBoard(log_dir='../../logs/deep_iris_net_triplet/' + str(time.time())),
+                           ModelCheckpoint("../../checkpoints/deep_iris_net_triplet/" + str(time.time()) + ".{epoch:02d}-{val_loss:.2f}.hdf5",
                                            save_weights_only=True)])
