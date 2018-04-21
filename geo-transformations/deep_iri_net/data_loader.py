@@ -34,13 +34,14 @@ class DataLoader(object):
 
         return image, label
 
-    def label_to_onehot(self, label):
-        onehot_vector = np.zeros(self.num_classes)
+    def label_to_onehot(self, labels):
+        onehot_vector = np.zeros(len(labels), self.num_classes)
+        
+        for i, label in enumerate(labels):    
+            if label not in self.labels:   
+                self.labels.append(label)
 
-        if label not in self.labels:   
-            self.labels.append(label)
-
-        onehot_vector[self.labels.index(label)] = 1
+            onehot_vector[i, self.labels.index(label)] = 1
 
         return onehot_vector
         
@@ -96,8 +97,8 @@ class DataLoader(object):
             iterator = dataset.make_one_shot_iterator()
 
             while True:
-                image, label = iterator.get_next()
-                image, label = sess.run([image, label])
-                onehot_vector = self.label_to_onehot(label)
+                images, labels = iterator.get_next()
+                images, labels = sess.run([images, labels])
+                labels = self.label_to_onehot(labels)
                 
-                yield (image, onehot_vector)
+                yield (images, labels)
