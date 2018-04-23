@@ -32,7 +32,7 @@ class DataLoader(object):
         label = tf.cast(features['label'], tf.int64)
 
         return image, label
-        
+
     def translate(self, image, label, num_samples=5, num_quantums=16):
         transformed_images = []
         translate_vectors = []
@@ -56,7 +56,7 @@ class DataLoader(object):
         return images, labels, transformed_images, translate_vectors
 
 
-    def translate_lambda(self, image, label): 
+    def translate_lambda(self, image, label):
         return self.translate(image, label)
 
     def inputs(self, sess, file_pattern, batch_size, num_epochs):
@@ -94,4 +94,18 @@ class DataLoader(object):
                     yield (images, labels)
                 except tf.errors.OutOfRangeError:
                     print("End of dataset.")
+                    break
 
+class LabelPreservingGenerator(object):
+    def __init__(self, generator):
+        self.generator = generator
+        self.labels = []
+    
+    def get_generator(self):
+        while True:
+            images, labels = next(self.generator)
+            self.labels.append(labels)
+            yield (images, labels)
+    
+    def get_labels(self):
+        return np.asarray(self.labels)
