@@ -94,3 +94,17 @@ class DataLoader(object):
                     yield (images, labels)
                 except tf.errors.OutOfRangeError:
                     print("End of dataset.")
+
+
+class LabelPreservingGenerator(object):
+    def __init__(self, generator):
+        self.generator = generator
+        self.labels = []
+    
+    def get_generator(self):
+        images, labels = next(self.generator)
+        self.labels.append(labels)
+        yield (images, labels)
+    
+    def get_labels(self):
+        return np.asarray(self.labels)
