@@ -84,9 +84,14 @@ class DataLoader(object):
 
             iterator = dataset.make_one_shot_iterator()
 
+            next_element = iterator.get_next()
+
             while True:
-                images, labels = iterator.get_next()
-                images, labels = sess.run([images, labels])
-                lables = np.repeat(labels, self.embedding_size)\
-                           .reshape(-1, self.embedding_size)
-                yield (images, labels)
+                try:
+                    images, labels = sess.run(next_element)
+                    lables = np.repeat(labels, self.embedding_size)\
+                               .reshape(-1, self.embedding_size)
+                    yield (images, labels)
+                except tf.errors.OutOfRangeError:
+                    print("End of dataset.")
+
