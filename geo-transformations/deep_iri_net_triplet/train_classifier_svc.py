@@ -65,7 +65,7 @@ timestamp = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
 file_name = "../../checkpoints/deep_iris_net_triplet_svc/{}_{}_{}.p".format(timestamp,
                                                                           train_score,
                                                                           val_score)
-with open(file_name, 'wb') as outfile:
-    pickle.dump(model, outfile)
+with open(file_name, 'wb') as f:
+    pickle.dump(model, f)
 
 print("Saved classifier model.")

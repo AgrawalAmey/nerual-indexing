@@ -3,8 +3,8 @@ import tensorflow as tf
 
 
 class DataLoader(object):
-    def __init__(self, embedding_size):
-        self.embedding_size = embedding_size
+    def __init__(self):
+        self.labels = []
 
     def decode(self, serialized_example):
         """Parses an image and label from the given `serialized_example`."""
@@ -89,8 +89,14 @@ class DataLoader(object):
             while True:
                 try:
                     images, labels = sess.run(next_element)
-                    lables = np.repeat(labels, self.embedding_size)\
-                               .reshape(-1, self.embedding_size)
+
+                    for i in range(len(labels)):
+                        if labels[i] in self.labels:
+                            labels[i] = self.labels.index(labels[i])
+                        else:
+                            self.labels.append(labels[i])
+                            labels[i] = len(self.labels) - 1
+
                     yield (images, labels)
                 except tf.errors.OutOfRangeError:
                     print("End of dataset.")

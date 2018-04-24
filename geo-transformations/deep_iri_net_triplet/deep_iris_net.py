@@ -8,7 +8,7 @@ from model import get_model
 
 embedding_size = 128
 
-data_loader = DataLoader(embedding_size)
+data_loader = DataLoader()
 
 get_train_generator = lambda: data_loader.inputs(K.get_session(), '../../../data/nd-iris-train-*.tfrecords', 100, 50)
 get_val_generator = lambda: data_loader.inputs(K.get_session(), '../../../data/nd-iris-val-*.tfrecords', 100, 50)

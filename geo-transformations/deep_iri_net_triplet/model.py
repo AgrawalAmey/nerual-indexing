@@ -55,4 +55,4 @@ def get_model(embedding_size=128, triplet_loss_margin=0.2):
     deep_iris_net = multi_gpu_model(deep_iris_net, gpus=4)
     deep_iris_net.compile(optimizer='adam', loss=triplet_loss)
 
-    return deep_iris_net
+    return deep_iris_net, input_img, embedding
