@@ -33,15 +33,15 @@ from visdom_callback import PlotVisdom
 
 autoencoder = get_model()[0]
 
-get_train_generator = lambda: inputs(K.get_session(), '../../../data/nd-iris-t*.tfrecords', 400, 25)
-get_val_generator = lambda: inputs(K.get_session(), '../../../data/nd-iris-val-*.tfrecords', 400, 25)
+get_train_generator = lambda: inputs(K.get_session(), '../../../data/nd-iris-t*.tfrecords', 100, 50)
+get_val_generator = lambda: inputs(K.get_session(), '../../../data/nd-iris-val-*.tfrecords', 100, 50)
 
 
 autoencoder.fit_generator(generator=get_train_generator(),
-                epochs=25,
-                steps_per_epoch=256, # batch size 400
+                epochs=50,
+                steps_per_epoch=1200, # batch size 100
                 validation_data=get_val_generator(),
-                validation_steps=30,
+                validation_steps=120,
                 workers = 0,
                 use_multiprocessing=True,
                           callbacks=[TensorBoard(log_dir='../../logs/iris_ae_din' + str(time.time())),
