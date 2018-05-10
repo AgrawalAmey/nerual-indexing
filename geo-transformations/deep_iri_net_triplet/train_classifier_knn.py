@@ -9,8 +9,8 @@ print('Loading embeddings...')
 train_file_name = "../../embeddings/train.p"
 val_file_name = "../../embeddings/train.p"
 
-X_train, y_train = pickle.load(open(train_file_name))
-X_val, y_val = pickle.load(open(val_file_name))
+X_train, y_train = pickle.load(open(train_file_name, 'rb'))
+X_val, y_val = pickle.load(open(val_file_name, 'rb'))
 
 classifier = KNeighborsClassifier(n_neighbors=3)
 
