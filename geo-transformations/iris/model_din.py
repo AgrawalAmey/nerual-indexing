@@ -61,7 +61,7 @@ def get_model():
     x = Conv2D(64, (7, 7), activation='relu', padding='same')(x)
     x = BatchNormalization()(x)
     x = Conv2D(32, (7, 7), activation='relu', padding='same')(x)
-    x = MaxPooling2D((2, 2))(x)
+    x = UpSampling2D((2, 2))(x)
 
     # 64, 512, 32
     x = BatchNormalization()(x)
