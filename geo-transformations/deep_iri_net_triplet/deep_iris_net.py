@@ -13,7 +13,7 @@ data_loader = DataLoader()
 get_train_generator = lambda: data_loader.inputs(K.get_session(), '../../../data/nd-iris-train-*.tfrecords', 100, 50)
 get_val_generator = lambda: data_loader.inputs(K.get_session(), '../../../data/nd-iris-val-*.tfrecords', 100, 50)
 
-deep_iris_net = get_model(embedding_size)
+deep_iris_net = get_model(embedding_size)[0]
 
 deep_iris_net.fit_generator(generator=get_train_generator(),
                 epochs=50,
