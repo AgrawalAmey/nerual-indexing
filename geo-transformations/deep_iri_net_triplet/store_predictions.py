@@ -46,7 +46,7 @@ val_set_embeddings = deep_iris_net.predict_generator(generator=val_data_generato
 val_labels = val_data_generator_wrapper.get_labels().reshape(-1)
 
 
-print('Storing embeddings')
+print('Storing embeddings...')
 
 train_file_name = "../../embeddings/train.p"
 val_file_name = "../../embeddings/train.p"
