@@ -49,15 +49,15 @@ def get_model():
     x = UpSampling2D((2, 2))(x)
 
     # 16, 128, 256
-    x = Conv2D(192, (5, 5), activation='relu', padding='same')(x)
+    x = Conv2D(192, (3, 3), activation='relu', padding='same')(x)
     x = BatchNormalization()(x)
-    x = Conv2D(128, (5, 5), activation='relu', padding='same')(x)
+    x = Conv2D(128, (3, 3), activation='relu', padding='same')(x)
     x = UpSampling2D((2, 2))(x)
 
     # 32, 256, 128
-    x = Conv2D(64, (7, 7), activation='relu', padding='same')(x)
+    x = Conv2D(64, (3, 3), activation='relu', padding='same')(x)
     x = BatchNormalization()(x)
-    x = Conv2D(32, (7, 7), activation='relu', padding='same')(x)
+    x = Conv2D(32, (3, 3), activation='relu', padding='same')(x)
     x = UpSampling2D((2, 2))(x)
 
     # 64, 512, 32
