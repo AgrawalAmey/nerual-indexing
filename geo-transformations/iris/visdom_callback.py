@@ -26,21 +26,23 @@ class PlotVisdom(Callback):
             'No connection could be formed quickly'
 
     def plot_figures(self, generator, epoch, logs):
-        for image, _ in generator:
-            image = image[0]
-            decoded = self.autoencoder.predict(image)
 
+        for images, _ in generator:
+            decoded_images = self.autoencoder.predict(images)
+            
             fig, axes = plt.subplots(nrows=8, ncols=2, figsize=(20, 10))
+            
             for row in range(8):
                 axes[row, 0].axis("off")
                 axes[row, 1].axis("off")
                 axes[row, 0].set_title("Input")
-                axes[row, 0].imshow(image[row].reshape(64, 512))
+                axes[row, 0].imshow(images[row].reshape(64, 512))
                 axes[row, 1].set_title("Output")
-                axes[row, 1].imshow(decoded[row].reshape(64, 512))
+                axes[row, 1].imshow(decoded_images[row].reshape(64, 512))
             break
+        
         title = 'Epoch: {}, Training Loss: {}, Validation Loss: {}'.format(
-            epoch, logs.get('loss'), logs.get('val_loss'))
+                        epoch, logs.get('loss'), logs.get('val_loss'))
 
         self.vis.matplot(fig, opts=dict(title=title))
 
