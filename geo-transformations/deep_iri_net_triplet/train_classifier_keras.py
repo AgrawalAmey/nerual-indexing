@@ -29,7 +29,7 @@ deep_iris_net.load_weights(
 print('Training classifier')
 
 # Define model
-x = Dense(512, activation='relu')(embedding)
+x = Dense(512, activation='tanh')(embedding)
 x = Dense(1352, activation='softmax')(x)
 
 model = Model(inputs=input_img, outputs=embedding)

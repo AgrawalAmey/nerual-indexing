@@ -49,7 +49,7 @@ val_labels = val_data_generator_wrapper.get_labels().reshape(-1)
 print('Storing embeddings...')
 
 train_file_name = "../../embeddings/train.p"
-val_file_name = "../../embeddings/train.p"
+val_file_name = "../../embeddings/val.p"
 
 with open(train_file_name, 'wb') as f:
     pickle.dump([train_set_embeddings, train_labels], f)
