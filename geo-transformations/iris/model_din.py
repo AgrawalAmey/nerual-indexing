@@ -15,22 +15,22 @@ def get_model():
     x = MaxPooling2D((2, 2))(x)
 
     #  32, 256, 64
-    x = BatchNormalization()(x)
-    x = Conv2D(128, (5, 5), activation='relu', padding='same')(x)
+    x1 = BatchNormalization()(x)
+    x = Conv2D(128, (5, 5), activation='relu', padding='same')(x1)
     x = BatchNormalization()(x)
     x = Conv2D(192, (5, 5), activation='relu', padding='same')(x)
     x = MaxPooling2D((2, 2))(x)
 
     # 16, 128, 192
-    x = BatchNormalization()(x)
-    x = Conv2D(256, (3, 3), activation='relu', padding='same')(x)
+    x2 = BatchNormalization()(x)
+    x = Conv2D(256, (3, 3), activation='relu', padding='same')(x2)
     x = BatchNormalization()(x)
     x = Conv2D(320, (3, 3), activation='relu', padding='same')(x)
     x = MaxPooling2D((2, 2))(x)
 
     # 8, 64, 320
-    x = BatchNormalization()(x)
-    x = Conv2D(480, (3, 3), activation='relu', padding='same')(x)
+    x3 = BatchNormalization()(x)
+    x = Conv2D(480, (3, 3), activation='relu', padding='same')(x3)
     x = BatchNormalization()(x)
     x = Conv2D(512, (3, 3), activation='relu', padding='same')(x)
     encoding = MaxPooling2D((2, 2))(x)
@@ -43,31 +43,27 @@ def get_model():
     x = UpSampling2D((2, 2))(x)
 
     #  8, 64, 480
-    x = BatchNormalization()(x)
     x = Conv2D(320, (3, 3), activation='relu', padding='same')(x)
     x = BatchNormalization()(x)
     x = Conv2D(256, (3, 3), activation='relu', padding='same')(x)
     x = UpSampling2D((2, 2))(x)
 
     # 16, 128, 256
-    x = BatchNormalization()(x)
     x = Conv2D(192, (5, 5), activation='relu', padding='same')(x)
     x = BatchNormalization()(x)
     x = Conv2D(128, (5, 5), activation='relu', padding='same')(x)
     x = UpSampling2D((2, 2))(x)
 
     # 32, 256, 128
-    x = BatchNormalization()(x)
     x = Conv2D(64, (7, 7), activation='relu', padding='same')(x)
     x = BatchNormalization()(x)
     x = Conv2D(32, (7, 7), activation='relu', padding='same')(x)
     x = UpSampling2D((2, 2))(x)
 
     # 64, 512, 32
-    x = BatchNormalization()(x)
     x = Conv2D(8, (3, 3), activation='relu', padding='same')(x)
     x = BatchNormalization()(x)
-    reconstruction = Conv2D(1, (3, 3), activation='relu', padding='same')(x)
+    reconstruction = Conv2D(1, (3, 3), padding='same')(x)
 
     deep_iris_net = Model(inputs=input_img, outputs=reconstruction)
     deep_iris_net = multi_gpu_model(deep_iris_net, gpus=4)
