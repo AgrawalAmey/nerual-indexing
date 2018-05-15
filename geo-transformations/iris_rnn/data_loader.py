@@ -36,7 +36,10 @@ def decode(serialized_example):
     return images, label
 
 
-split_images =  lambda image: tf.split(image, num_or_size_splits=8, axis=1)
+def split_images(image):
+    images = tf.split(image, num_or_size_splits=8, axis=1)
+    images = tf.convert_to_tensor(images)
+    return images
 
 def translate(image, label, num_samples=5, num_quantums=16):
     transformed_images = []
