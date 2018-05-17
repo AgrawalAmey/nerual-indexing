@@ -31,7 +31,7 @@ from visdom_callback import PlotVisdom
 
 #show_samples_from_tfr('../../data/nd-iris-train-*.tfrecords')
 
-autoencoder = get_model()[0]
+autoencoder = get_model()
 
 get_train_generator = lambda: inputs(K.get_session(), '../../../data/nd-iris-t*.tfrecords', 100, 50)
 get_val_generator = lambda: inputs(K.get_session(), '../../../data/nd-iris-val-*.tfrecords', 100, 50)

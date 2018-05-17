@@ -36,9 +36,9 @@ class PlotVisdom(Callback):
                 axes[row, 0].axis("off")
                 axes[row, 1].axis("off")
                 axes[row, 0].set_title("Input")
-                axes[row, 0].imshow(images[row].reshape(64, 512))
+                axes[row, 0].imshow(images[row].reshape(64, 64))
                 axes[row, 1].set_title("Output")
-                axes[row, 1].imshow(decoded_images[row].reshape(64, 512))
+                axes[row, 1].imshow(decoded_images[row].reshape(64, 64))
             break
         
         title = 'Epoch: {}, Training Loss: {}, Validation Loss: {}'.format(
