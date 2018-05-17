@@ -144,7 +144,8 @@ def show_samples_from_tfr(file_pattern):
                          batch_size=32, num_epochs=1)
 
             for images, _ in gen:
-                print(images, images[0].shape)
+                print(images.shape)
+                break
 
             # for image, label, transformed, translation_vector in gen:
             #     fig, axes = plt.subplots(nrows=8, ncols=2, figsize=(20, 10))
