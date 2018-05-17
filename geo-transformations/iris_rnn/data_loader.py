@@ -27,19 +27,20 @@ def decode(serialized_example):
     # Normalize image
     image = (image + 0.49) * 500 + 4.5
 
-    # split into images
-    images = split_images(image)
-
     # Convert label from a scalar uint8 tensor to an int32 scalar.
     label = tf.cast(features['label'], tf.int64)
 
-    return images, label
+    # split into images
+    images, labels = split_images(image, label)
+
+    return images, labels
 
 
-def split_images(image):
+def split_images(image, label):
     images = tf.split(image, num_or_size_splits=8, axis=1)
     images = tf.convert_to_tensor(images)
-    return images
+    labels = tf.convert_to_tensor([label] * 8)
+    return images, labels
 
 def translate(image, label, num_samples=5, num_quantums=16):
     transformed_images = []
@@ -104,6 +105,7 @@ def inputs(sess, file_pattern, batch_size, num_epochs):
 #                          .map(translate, num_parallel_calls=4)\
 #                          .apply(tf.contrib.data.unbatch())\
         dataset = (dataset.map(decode, num_parallel_calls=4)
+                   .apply(tf.contrib.data.unbatch())
                    .shuffle(batch_size * 5)
                    .batch(batch_size)
                    .prefetch(batch_size))
@@ -120,6 +122,7 @@ def inputs(sess, file_pattern, batch_size, num_epochs):
                     images, _ = sess.run(next_element)
                     # image, label, transformed_image, translate_vector = sess.run(next_element)
                     # yield ([image, translate_vector], transformed_image)
+                    images = images.reshape((-1, 64, 64))
                     yield (images, images.copy())
                 except tf.errors.OutOfRangeError:
                     print("End of dataset.")
@@ -144,7 +147,7 @@ def show_samples_from_tfr(file_pattern):
                          batch_size=32, num_epochs=1)
 
             for images, _ in gen:
-                print(images.shape)
+                print(images, images[0].shape)
                 break
 
             # for image, label, transformed, translation_vector in gen:
